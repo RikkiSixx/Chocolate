@@ -1,0 +1,339 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"ic",
+				"apple-touch-icon"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"overla",
+				"overlayShow"
+			],
+			[
+				"ti",
+				"\"Times New Roman\", Times, serif"
+			],
+			[
+				"tim",
+				"\"Times New Roman\""
+			],
+			[
+				"ge",
+				"Georgia"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 380.0,
+		"selected_items":
+		[
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"pac",
+				"Package Control: Install Package"
+			],
+			[
+				"packagecontrol",
+				"Package Control: Install Package"
+			],
+			[
+				"packag",
+				"Package Control: Install Package"
+			],
+			[
+				"package",
+				"Package Control: Install Package"
+			],
+			[
+				"package con",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 512.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/rik/Documents/GitHub/Chocolate/public/assets/js/libs/jquery-1.8.0.min.js",
+		"/C/Users/rik/Documents/GitHub/Chocolate/public/index.htm",
+		"/C/Users/rik/Documents/GitHub/Chocolate/public/assets/css/global.css",
+		"//NIMBUSCF/sites/sites/clients.cloudspotting/tddirectinvesting/Website/tddi_int_logo/index.htm",
+		"/C/Users/rik/Documents/GitHub/Chocolate/Site/assets/css/normalize.css",
+		"/C/Users/rik/Work/Goldilocks Approach - designbyfront/css/global.css",
+		"/C/Users/rik/Documents/GitHub/Chocolate/Site/assets/css/style.css",
+		"/C/Users/rik/Work/h5bp-html5-boilerplate-2279296/css/main.css",
+		"/C/Users/rik/Work/h5bp-html5-boilerplate-2279296/humans.txt",
+		"/C/Users/rik/Documents/GitHub/Chocolate/Site/assets/css/reset.css",
+		"/C/Users/rik/Work/Bootstrap/css/bootstrap.css",
+		"/C/Users/rik/Work/h5bp-html5-boilerplate-2279296/css/normalize.css",
+		"//NIMBUSCF/sites/sites/saintgobain/sgp-reskin.netstep.co.uk/public/js/sgp-scripts.js",
+		"//NIMBUSCF/sites/sites/saintgobain/sgp-reskin.netstep.co.uk/public/includes/header.cfm",
+		"//NIMBUSCF/sites/sites/saintgobain/sgp-reskin.netstep.co.uk/public/index.cfm",
+		"//NIMBUSCF/sites/sites/saintgobain/sgp-reskin.netstep.co.uk/public/js/surveyPopup.js",
+		"//NIMBUSCF/sites/sites/saintgobain/sgp-reskin.netstep.co.uk/public/js/jquery.cookies.js",
+		"//NIMBUSCF/sites/sites/saintgobain/sgp-reskin.netstep.co.uk/public/includes/mainmenu.cfm",
+		"//NIMBUSCF/sites/sites/saintgobain/sgp-reskin.netstep.co.uk/public/shared/dsp_page.cfm",
+		"//NIMBUSCF/sites/sites/saintgobain/sgp-reskin.netstep.co.uk/public/corporate/exec-managment.html",
+		"//NIMBUSCF/sites/sites/saintgobain/sgp-reskin.netstep.co.uk/public/css/sgp-styles.css",
+		"//NIMBUSCF/sites/sites/saintgobain/sgp-reskin.netstep.co.uk/public/shared/cfc/netstep-server-functions.cfc",
+		"//NIMBUSCF/sites/sites/saintgobain/sgp-reskin.netstep.co.uk/public/scripts/jquery.cookiecuttr.js",
+		"//NIMBUSCF/sites/sites/saintgobain/sgp-reskin.netstep.co.uk/public/includes/footer.cfm",
+		"//NIMBUSCF/sites/sites/saintgobain/sgp-reskin.netstep.co.uk/public/scripts/jquery.cookie.js",
+		"/C/Users/rik/Work/jQuery/CookieCuttr - Cookie Compliance/implementation-guide.txt",
+		"//NIMBUSCF/sites/sites/saintgobain/sgp-reskin.netstep.co.uk/public/includes/navscript.cfm",
+		"/W/theoldhouse.spotting.office.com/shared_development/rik/trunk/public/access.php",
+		"/W/theoldhouse.spotting.office.com/shared_development/rik/trunk/public/scripts/libs/modernizr-2.0.6.min.js",
+		"/W/theoldhouse.spotting.office.com/shared_development/rik/trunk/public/includes/elements/header.php",
+		"/W/theoldhouse.spotting.office.com/shared_development/rik/trunk/public/css/style.css",
+		"//NIMBUSDEV/sites/theoldhouse.spotting.office.com/shared_development/rik/trunk/public/css/reset.css",
+		"/W/theoldhouse.spotting.office.com/shared_development/rik/trunk/public/email-template.htm",
+		"/W/theoldhouse.spotting.office.com/shared_development/rik/trunk/public/includes/elements/footer.php",
+		"/W/theoldhouse.spotting.office.com/shared_development/rik/trunk/public/tariffs.php",
+		"/W/theoldhouse.spotting.office.com/shared_development/rik/trunk/public/scripts/script.js",
+		"/W/theoldhouse.spotting.office.com/shared_development/rik/trunk/public/css/calendar.css",
+		"/W/theoldhouse.spotting.office.com/shared_development/rik/trunk/public/css/chrome.css",
+		"//NIMBUSDEV/sites/ecology.spotting.office.com/shared_development/rik/trunk/application/views/pages/sitemap.php",
+		"/W/theoldhouse.spotting.office.com/shared_development/rik/trunk/public/admin/login.php",
+		"/W/theoldhouse.spotting.office.com/shared_development/rik/trunk/public/admin/index.php",
+		"/W/theoldhouse.spotting.office.com/shared_development/rik/trunk/public/admin/calendar.php",
+		"/W/theoldhouse.spotting.office.com/shared_development/rik/trunk/public/admin/bookings.php",
+		"/W/theoldhouse.spotting.office.com/shared_development/rik/trunk/public/booking/cleeve-lodge.php",
+		"/W/theoldhouse.spotting.office.com/shared_development/rik/trunk/public/booking/belle-croix.php",
+		"/W/theoldhouse.spotting.office.com/shared_development/rik/trunk/public/useful-links.php",
+		"/W/theoldhouse.spotting.office.com/shared_development/rik/trunk/public/terms-and-conditions.php",
+		"/W/theoldhouse.spotting.office.com/shared_development/rik/trunk/public/template.html",
+		"/W/theoldhouse.spotting.office.com/shared_development/rik/trunk/public/sitemap.php",
+		"/W/theoldhouse.spotting.office.com/shared_development/rik/trunk/public/index.php",
+		"/W/theoldhouse.spotting.office.com/shared_development/rik/trunk/public/contact-us.php",
+		"/W/theoldhouse.spotting.office.com/shared_development/rik/trunk/public/availability.php",
+		"/W/theoldhouse.spotting.office.com/shared_development/rik/trunk/public/about-us.php",
+		"/W/theoldhouse.spotting.office.com/shared_development/rik/trunk/public/includes/emails/booking-confirmation.php",
+		"/C/Users/rik/AppData/Local/Temp/Rar$DR07.779/cool/html/full_width.html",
+		"/W/theoldhouse.spotting.office.com/shared_development/rik/trunk/public/includes/elements/booking.php",
+		"/W/theoldhouse.spotting.office.com/shared_development/rik/trunk/public/scripts/css_browser_selector.min.js",
+		"/W/theoldhouse.spotting.office.com/shared_development/rik/trunk/public/includes/emails/booking.php",
+		"/W/theoldhouse.spotting.office.com/shared_development/rik/trunk/public/includes/emails/contact-us-confirmation.php",
+		"/W/theoldhouse.spotting.office.com/shared_development/rik/trunk/public/includes/emails/contact-us.php",
+		"/W/theoldhouse.spotting.office.com/shared_development/rik/trunk/public/property/belle-croix.php",
+		"/W/checkon.spotting.office.com/shared_development/rik/trunk/application/views/pages/terms-and-conditions.php",
+		"/W/checkon.spotting.office.com/shared_development/rik/trunk/application/views/pages/employer/no-credits.php",
+		"/W/checkon.spotting.office.com/shared_development/rik/trunk/application/views/pages/employer/credit-check.php",
+		"/W/checkon.spotting.office.com/shared_development/rik/trunk/application/views/pages/employer/credit-confirm.php",
+		"/W/checkon.spotting.office.com/shared_development/rik/trunk/application/views/pages/employer/credit-success.php",
+		"/W/checkon.spotting.office.com/shared_development/rik/trunk/application/views/pages/employer/buy-credits.php",
+		"/W/checkon.spotting.office.com/shared_development/rik/trunk/application/views/pages/about-checkon.php",
+		"/X/sites/clients.cloudspotting/tddirectinvesting/WebsiteBanners/International160512/index.htm",
+		"/W/ecology.spotting.office.com/shared_development/rik/trunk/application/views/pages/news/podcasts.php",
+		"/W/ecology.spotting.office.com/shared_development/rik/trunk/application/views/pages/about/meetings.php",
+		"/W/nexers.spotting.office.com/shared_development/rik/trunk/config/routes.php",
+		"/W/nexers.spotting.office.com/shared_development/rik/trunk/controllers/contactus.php",
+		"/W/nexers.spotting.office.com/shared_development/rik/trunk/views/page/contact-us.php",
+		"/W/nexers.spotting.office.com/shared_development/rik/trunk/.project",
+		"//NIMBUSCF/sites/sites/saintgobain/sgp-reskin.netstep.co.uk/public/_chrome-test.htm",
+		"//NIMBUSCF/sites/sites/saintgobain/sgp-reskin.netstep.co.uk/public/technical/stock-on-hand/index.cfm",
+		"//NIMBUSCF/sites/sites/saintgobain/sgp-reskin.netstep.co.uk/public/technical/stock-on-hand/test.htm",
+		"/C/Users/rik/Work/HTML5 Boilerplate - Full/index.html",
+		"//NIMBUSCF/sites/sites/saintgobain/sgp-reskin.netstep.co.uk/public/js/jquery-1.7.2.min.js",
+		"//NIMBUSCF/sites/sites/saintgobain/sgp-reskin.netstep.co.uk/public/js/jquery-1.6.2.min.js",
+		"/X/sites/clients.cloudspotting/concept-recruitment/index.htm",
+		"//NIMBUSCF/sites/sites/safetycameraswestyorkshire/public/accessibility.htm",
+		"//NIMBUSCF/sites/sites/safetycameraswestyorkshire/public/styles/default.css",
+		"//NIMBUSCF/sites/sites/safetycameraswestyorkshire/public/faq-detail.htm"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"",
+			"about-checkon.php",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"’",
+			"header",
+			"home",
+			"close",
+			"fancybox-close",
+			"analytic",
+			"index.htm",
+			"calendar-key",
+			"’",
+			"60 Grosvenor",
+			"webkit",
+			"select",
+			"pointer",
+			"event.layerx"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"'"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"css",
+				"public/css/sgp-styles.css"
+			],
+			[
+				"exec",
+				"public/corporate/exec-managment.html"
+			],
+			[
+				"tar",
+				"tariffs.php"
+			],
+			[
+				"chrome",
+				"css/chrome.css"
+			],
+			[
+				"calen",
+				"css/calendar.css"
+			],
+			[
+				"header",
+				"includes/elements/header.php"
+			],
+			[
+				"footer",
+				"includes/elements/footer.php"
+			],
+			[
+				"foot",
+				"includes/elements/footer.php"
+			],
+			[
+				"styl",
+				"css/style.css"
+			],
+			[
+				"",
+				"public/css/sgp-styles.css"
+			],
+			[
+				"hea",
+				"public/includes/header.cfm"
+			],
+			[
+				"stock-on",
+				"public/technical/stock-on-hand/index.cfm"
+			],
+			[
+				"faq",
+				"faq-detail.htm"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 219.0,
+	"status_bar_visible": true
+}
