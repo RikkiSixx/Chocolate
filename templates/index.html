@@ -28,28 +28,32 @@
 
         <div class="container">
 
-            <hgroup>
-                <h1 id="hero"><a href="@root_path">@name</a></h1>
-                <h2>@profession</h2>
-            </hgroup>
+            <header>
 
-            <em class="col three">@email</em>
+                <hgroup>
+                    <h1 id="hero"><a href="@root_path">@name</a></h1>
+                    <h2>@profession</h2>
+                </hgroup>
 
-            :navigation
+                <p class="col three">@email</p>
 
-            <div>
-                :category-lists
-            </div>
-            
+                <div style="display: none;">
+                    :navigation
+                </div>
+
+                <div>
+                    :category-lists
+                </div>
+
+            </header>
 
         </div><!-- container -->
 
         <footer id="footer-wrap">
             <div class="container">
                 <p>@name</p>
-                <p>I am a twenty-odd year old front-end developer and UX designer from Leeds, currently working for digital agency <a href="http://www.cloudspotting.co.uk/" title="_blank" title="Cloudspotting">Cloudspotting</a>.</p>
-                <p>If you want to find out a bit more <a href="/" title="Find out more about me">about me</a>, or you want to <a href="/" title="Contact me">get in touch</a>, there’s a page for that <a href="/" title="Find out more or get in touch">right here</a>!
-
+                <p>I'm a twenty-something UX developer and designer living in Leeds, UK. I love semantic code, great design, good food and robots. I make up one half of <a href="http://www.waffleworks.co/" title="_blank" title="Waffle Works">Waffle Works</a>.</p>
+                
                 <p>&copy; Copyright @name @current_year <a class="atom-rss" href="@root_path/?/feed/">RSS</a></p>
             </div>
         </footer>

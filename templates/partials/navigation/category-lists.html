@@ -1,0 +1,23 @@
+foreach $root do
+    if $children do
+        <!--<h2 class="category col two">@title</h2>-->
+
+        <div class="blog-list">
+
+        foreach $children do
+            <section class="post-preview">
+                <!--<div class="thumbnail col two">
+                    <a href="@url"><img src="@thumb" alt=""></a>
+                </div>-->
+
+                <h2 class="post-title"><a href="@url">@title</a></h2>
+                <p class="post-date">@date</p>
+                
+                <p>@preview</p>
+                
+            </section>
+        endforeach
+
+        </div><!-- blog-list -->
+    endif
+endforeach

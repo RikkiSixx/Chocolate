@@ -1,0 +1,33 @@
+title: Handheld Conference - Part II.
+-
+date: 26th November 2012
+-
+content:
+## Handheld Conference - Part II.
+
+### 26th November, 2012
+
+This time last week I was at [Handheld Conference](http://handheldconf.com/ "Handheld Conference") in Cardiff, Wales. If you didn't see what I wrote on Friday, or just want to catch-up, have a read of [Part I](@root_path/?/blog/handheld-i/ "Part i"). It was a long day, but thankfully we got to grab some lunch mid-way through. Bellies stuffed, we headed back in&hellip;
+
+[Kevin Mears](http://mearso.com/ "Kevin Mears"), in-house front-end developer for the University of Glamorgan, presented one of my favourite portions of the day. Using his own entertaining doodles, Kevin discussed the trials and tribulations of catering for a varied audience on a variety of devices, and transforming an existing desktop website into something responsive. Kevin's [slides are online](https://speakerdeck.com/mearso/is-your-thinking-l-shaped "Kevin Mears' presentation slides") for you to take a look at.
+
+**NB - I haven't covered *all* the presenters at Handheld in these posts, otherwise I could go on all day. Rest assured though, everyone was worth listening to, and I'd urge everyone to take a look at the videos when they're released!**
+
+Andrew Spooner has a silly job title and works at Microsoft, playing with their new toys and tech months (sometimes years) before the public sees it. In a talk entitled *We, Human*, Andrew talked about the humanity in computing and technology, how sometimes we can lose our own and how we should sometimes treat a machine like it is human. He also showed us a fridge with Internet capabilities, a Twitter-controlled bubble-machine and a talking toaster. Neat!
+
+Freelance designer [Laura Kalbag](http://blog.laurakalbag.com/ "Laura Kalbag") implored us to "**stop thinking about specific devices; who knows what will come out tomorrow**", as she passionately took us through her own design process. As a lovely aside, Laura's slides were mostly made up of icons - one member of the audience later revealed he was colour-blind, and that her slides were the most readable.
+
+Laura encouraged us to remain consistent when designing and developing responsive websites - both in appearance as well as content; she explained that trimming your content for a "mobile” version and guessing that your user is on the move is a poor assumption which may give them a poor user experience.
+
+The day was closed by [Aral Balkan](http://www.breakingthin.gs/ "Aral Balkan"), just as the last dregs of daylight left the Bay. Through a series of unusual anecdotes, Aral pushed the importance not just creating great design, but of creating great experiences.
+
+I've seen video of Aral's talks in the past and he was as enthusiastic and passionate as always as he took us through his talk, **A happy grain of sand**. He likened good design to the way he felt his parents were superhuman as a child - his **Superman Effect**. An well-designed interface shouldn't have to tell us what to do - like a washing machine or ticket machine does - the way it works should be obvious, natural and allow us to use our instincts.These are the user experiences that leave us happy and make us feel superhuman.
+
+After all, to paraphrase Aral, life is made up of thousands of experiences, big and small; we should be doing what we can to add another happy experience into the lives of our users and our clients, no matter how small it may be.
+
+Handheld Conference was another happy grain of sand.
+
+*Also posted on the [Cloudspotting blog](http://blog.cloudspotting.co.uk/ "Cloudspotting Blog").*
+-
+preview:
+This time last week I was at [Handheld Conference](http://handheldconf.com/ "Handheld Conference") in Cardiff, Wales. If you didn't see what I wrote on Friday, or just want to catch-up, have a read of [Part I](@root_path/?/blog/handheld-i/ "Part i"). It was a long day, but thankfully we got to grab some lunch mid-way through. Bellies stuffed, we headed back in&hellip;

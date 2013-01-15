@@ -27,13 +27,19 @@
     <body>
         
         <div id="container">
+
             <h1 class="col three">
                 <a href="@root_path">@name</a>
                 <strong>@profession</strong>
+                <em>@keywords</em>
             </h1>
+
             <em class="col three">@email</em>
+
             <hr>
+
             :navigation
+
             <div id="content" class="col eight">
                 <p class="date col one">&para;</p>
                 <div class="description col six">
@@ -42,11 +48,14 @@
                     @content
                     :pdfs
                 </div>
-            </div>
+
+            </div><!-- #content -->
+
           <hr>
-          <p id="footer" class="col six">&copy; Copyright @name @current_year <a class="atom-rss" href="@root_path/?/feed/">RSS</a><br>
-              <em>Content managed by <a href="http://www.staceyapp.com">stacey</a></em></p>
-        </div>
+          
+          <p id="footer" class="col six">&copy; Copyright @name @current_year <a class="atom-rss" href="@root_path/?/feed/">RSS</a></p>
+
+        </div><!-- #container -->
 
         <!-- Scripts -->
         <script src="//ajax.googleapis.com/ajax/libs/jquery/1.8.0/jquery.min.js"></script>
