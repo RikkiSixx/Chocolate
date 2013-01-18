@@ -1,0 +1,36 @@
+title: Back to Blank
+-
+date: 18th January, 2012
+-
+content:
+Sitting at my desk and looking around, I can see a lot of things. 
+
+* Stacks of books and magazines covering everything from design and development to SEO and marketing;
+* Office toys and trinkets; bottles of water, mugs of coffee, even a bottle of Jack Daniels;
+* A rainbow of Post-It notes of all colours with hastily scribbled notes, numbers and names;
+* An orange from Christmas, to stave off the flu (it never got eaten. I got flu).
+
+But I'm not looking around the whole office. I'm just looking around **my desk**. Trying around to find my notebook actually, which is buried somewhere nearby. Clearly, something has to give.
+
+For a while I've wondered if the clutter on my desk is a distraction. How it affects my focus on my work, whether it derails my train of thought. It certainly does when I lunge for the phone and send my gloves and a pen careering onto the neighbouring desk. 
+
+### Hitting reset
+
+Removing the distractions can only be a good thing. Right now it's actually awkward to hit *Tab* as there's a mug of tea close to my keyboard. It's that close because a Nerf gun and stack of magazines are taking up so much space.
+
+There's so much in my peripheral vision, vying for attention. I don't feel distracted, but perhaps I'm used to this. I want to take away the unnecessary, the excess. I want to go back to a *blank slate*.
+
+I've made a concious decision to obliterate the junk littering my desk, and to keep it as spotless as is reasonably possible, for a full 30 days. I'm interested to see what the results are, and how I feel as the month goes on.
+
+In the future I'd like to go further than this and apply it to my computer. I have a tendancy for having too many windows open, and most of them not-quite full-screen, overlapping each other. Rather than go to the taskbar I'll grab the one I want and click the visible portion. Everything is accessible, but it feels like a pile of unlabelled paper that gets messier and messier. Perhaps only having open the programs I'm using is worth investigating. For example, right now I'd only have my email application, Firefox and Sublime Text 2. Spotify at a push. That means I could close 7 currently-open applications. And 5 tabs in Firefox that I've had open since 9am on my to-read list.
+-
+preview:
+Sitting at my desk and looking around, I can see a lot of things. 
+
+* Stacks of books and magazines covering everything from design and development to SEO and marketing;
+* Office toys and trinkets; bottles of water, mugs of coffee, even a bottle of Jack Daniels;
+* A rainbow of Post-It notes of all colours with hastily scribbled notes, numbers and names;
+* An orange from Christmas, to stave off the flu (it never got eaten. I got flu).
+
+But I'm not looking around the whole office. I'm just looking around **my desk**. Trying around to find my notebook actually, which is buried somewhere nearby. Clearly, something has to give.
+

@@ -1,0 +1,25 @@
+:header
+
+            :navigation
+            
+            <article>
+
+                <hgroup class="post-title">
+                    <h1>@title</h1>
+                    <h2>Written on @date</h2>
+                </hgroup>
+
+                @content                
+
+                <div class="col four">
+                    if $siblings do
+                        :next-page
+                        :previous-page
+                    endif
+                </div>
+
+                :media
+
+            </article
+        
+:footer 

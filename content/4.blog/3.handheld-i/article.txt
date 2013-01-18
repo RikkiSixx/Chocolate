@@ -3,10 +3,6 @@ title: Handheld Conference - Part I.
 date: 23rd November 2012
 -
 content:
-## Handheld Conference - Part I.
-
-### 23rd November, 2012
-
 Last weekend, through the cold, the dark and the rain, Chris and I made the long journey over to Cardiff. Not for rugby, not for shopping, but for [Handheld Conference](http://handheldconf.com/ "Handheld Conference"); a series of talks based around mobile technologies.
 
 Right now, mobile is big news. And by "*mobile*" I don't just mean your smartphone; tablets are getting more powerful and affordable, netbooks and laptops are getting more portable, even consoles and TVs can provide access to the Internet. Clearly, mobile is here and it's not going away.

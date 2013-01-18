@@ -1,29 +1,27 @@
-# Stacey 2.3.0
+# Rik Kendell
 
 ## Overview
-Stacey takes content from `.txt` files, image files and implied directory structure and generates a website.
-It is a no-database, dynamic website generator.
+After probably close to four years, I'm finally re-designing my website. Actually I should say I'm finally *rebuilding* my website - I've re-designed it several times, but by the time I get to the build stage I'm already onto a new one!
 
-If you look in the `/content` and `/templates` folders, you should get the general idea of how it all works.
+My previous site design-oriented, hard to update and maintain, used almost no HTML5 or CSS3 and perhaps worst of all, it was as far from mobile-friendly as is possible to be.
 
-## Installation
+In short, it no longer reflected either myself or my skills.  
 
-Copy to server, `chmod 777 app/_cache`.
+## Rebuilding
 
-If you want clean urls, `mv htaccess .htaccess`
+With the redesign essentially done (as it's not client-work I do have a habit of making design tweaks while in the development stage), I knew what lay ahead. My new site would be responsive and revolve around a blog. I knew I did *not* want to use Wordpress; it's a great product, but only for the right project.
 
-## Templates
-
-There are an additional two sets of templates which can be found at:
-<http://github.com/kolber/stacey-template2> &
-<http://github.com/kolber/stacey-template3>
-
-## Read More
-
-See <http://staceyapp.com> for more detailed usage information.
+Instead, I used the lightweight, database-less CMS Stacey. It's functionality allowed for easy customisation and meant I could create new written articles, display images and even add new sections and pages extremely easily. Using Markdown for the posts, I no longer had to worry about a CMS cocking-up the styling or structure of my content.
 
 ## Copyright/License
 
-Copyright (c) 2009 Anthony Kolber. See `LICENSE` for details.
-Except PHP Markdown Extra which is (c) Michel Fortin (see `/app/parsers/markdown-parser.inc.php` for details) and
-JSON.minify which is (c) Kyle Simpson (see 'app/parsers/json-minifier.inc.php' for details).
+Copyright (c) 2013 Rik Kendell. See `LICENSE` for details.
+
+Except:
+* Stacey, (c) Anthony Kolber
+* PHP Markdown Extra, (c) Michel Fortin
+* JSON.minify which is (c) Kyle Simpson 
+
+## Read More
+
+See <http://staceyapp.com> for more detailed information on Stacey.
