@@ -84,8 +84,8 @@ p, ul, ol, dl, blockquote {
     /* max-width: 30em; /* Optimal width for long-form text */
 }
 
-ul { list-style-type: disc; margin-left: 1.618em; }
-ol { list-style-type: decimal; margin-left: 1.618em; }
+ul { list-style-type: disc;  }
+ol { list-style-type: decimal; }
 nav ul, nav ol { list-style: none; margin: 0; padding: 0;}
 
 b, strong { font-weight: bold; }
@@ -144,9 +144,10 @@ a:active {
     max-width: 46.250em;
     margin: auto;
 }
-header nav {
-    border-top: 10px solid #539ff4;
+header#main-header {
+    border-top: 0.625em solid #539ff4;
 }
+
 header hgroup h1, 
 header hgroup h2 {
     font-family: "Raleway Thin", sans-serif;
@@ -159,19 +160,44 @@ h1#hero {
 h1#hero a {
     color: #3A3A44;
 }
+h1#hero a:hover {
+    color: #539ff4;
+    text-decoration: none;
+}
 
-
+#topmenu {
+    position: absolute;
+    right: 0.625em;
+    top: 0.063em;
+}
+#topmenu ul li {
+    background: #539FF4;
+    float: left;
+    margin-right: 1px;
+    display: block;
+    height: 60px;
+    width: 60px;
+}
+#topmenu ul li a {
+    color: #fff;    
+}
+#topmenu ul li a:hover { }
+#topmenu ul li ul li {
+    display: none;
+}
 
 footer {
     background: #3a3a44;
     color: #fff;
 }
-
-footer a {
+footer a,
+footer a:hover,
+footer a:active,
+footer a:visited {
     color: #acc12e;
 }
 
-/* Custom typography */
+/* Typography */
 .post-preview h2, 
 .post-title h1 {
     color: #3A3A44;
@@ -186,7 +212,8 @@ footer a {
 }
 .post-preview h2 a:hover,
 .post-preview h2 a:active {
-    color: #2864a7;
+    color: #539ff4;
+    text-decoration: none;
 }
 p.post-date,
 p.post-continue {
@@ -267,6 +294,16 @@ p.post-continue {
 /* For IE 6/7 */
 .clearfix {
     *zoom: 1;
+}
+
+.left {
+    float: left;
+}
+.right {
+    float: right;
+}
+.relative {
+    position: relative;
 }
 
 

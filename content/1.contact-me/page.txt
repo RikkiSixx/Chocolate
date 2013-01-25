@@ -1,0 +1,16 @@
+title: Get in Touch
+-
+content:
+I am a passionate designer and developer, living and working in Leeds, Yorkshire. 
+
+Originally an animator, it was while building my portfolio website that I stumbled across CSS (I'd been taught using tables at university - yuck) and straight away I was hooked. I taught myself everything I could and picked the brains of my colleagues.
+
+Now the web is my career, and I wouldn't have it any other way!
+
+Designing and building a site or application that is a joy to use, giving users an experience as close to perfect as possible, gives me huge satisfaction. 
+
+I can be contacted at: <hi@yourdomain.com>.
+
+## My Site
+
+I built this site using Stacey. 
