@@ -5,7 +5,7 @@ date: 9th July 2012
 content:
 In a tweet a few days ago (5th July), Twitter engineering manager **Pankaj Gupta** mentioned that the way users are able to search the site is about to change.
 
-> Search & discovery in @twitter set to change forever after tmrw. Team – congrats and enjoy the enormity of ur impact few understand today!
+> Search & discovery in @twitter set to change forever after tmrw. Team - congrats and enjoy the enormity of ur impact few understand today!
 
 Currently, searching on Twitter yields generally poor results and only from recent tweets. You're unable to narrow the search down, for example searching only your own followers, or a specific list you've made. Additionally, anything beyond a few weeks old simply isn't included.
 
@@ -14,4 +14,4 @@ As of today, July 9th, I've yet to see any difference. Perhaps they're in beta a
 preview:
 In a tweet a few days ago (5th July), Twitter engineering manager **Pankaj Gupta** mentioned that the way users are able to search the site is about to change.
 
-> Search & discovery in @twitter set to change forever after tmrw. Team – congrats and enjoy the enormity of ur impact few understand today!
+> Search & discovery in @twitter set to change forever after tmrw. Team - congrats and enjoy the enormity of ur impact few understand today!

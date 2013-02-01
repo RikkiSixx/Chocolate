@@ -1,6 +1,6 @@
 :header
 
-            :navigation
+            <!-- :navigation -->
             
             <article>
 
@@ -11,12 +11,14 @@
 
                 @content                
 
-                <div class="col four">
-                    if $siblings do
-                        :next-page
-                        :previous-page
-                    endif
-                </div>
+
+                if $siblings do
+                    <div class="post-siblings clearfix">   
+                        :previous-page  
+                        :next-page 
+                    </div>
+                endif
+
 
                 :media
 
