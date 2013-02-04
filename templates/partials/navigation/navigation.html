@@ -1,7 +1,10 @@
-<ul id="navigation" class="col two">
+<ul id="navigation">
 	foreach $root do
     	<li>
-      		<a href="@url">@title</a>
+      		<a href="@url" title="@title" class="top-level">
+      			<span aria-hidden="true" class="icon" data-icon=""></span> 
+      			<span class="visuallyhidden">@title</span>
+      		</a>
       		:children
     	</li>
   	endforeach

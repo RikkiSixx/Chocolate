@@ -1,8 +1,8 @@
 if $children do
-	<ul>
+	<ul class="sub-level">
 		foreach $children do
 			<li>
-			  	<a href="@url">@page_name</a>
+			  	<a href="@url" title="@page_name">@page_name</a>
 			  	:children
 			</li>
 		endforeach

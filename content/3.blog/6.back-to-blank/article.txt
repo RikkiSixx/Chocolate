@@ -1,6 +1,6 @@
 title: Back to Blank
 -
-date: 18th January, 2012
+date: 4th February, 2012
 -
 content:
 Sitting at my desk and looking around, I can see a lot of things. 
@@ -10,11 +10,13 @@ Sitting at my desk and looking around, I can see a lot of things.
 * A rainbow of Post-It notes of all colours with hastily scribbled notes, numbers and names;
 * An orange from Christmas, to stave off the flu (it never got eaten. I got flu).
 
+<img width="1024" height="768" alt="My desk, this morning" src="./content/3.blog/6.back-to-blank/img/desk-january.jpg">
+
 But I'm not looking around the whole office. I'm just looking around **my desk**. Trying around to find my notebook actually, which is buried somewhere nearby. Clearly, something has to give.
 
 For a while I've wondered if the clutter on my desk is a distraction. How it affects my focus on my work, whether it derails my train of thought. It certainly does when I lunge for the phone and send my gloves and a pen careering onto the neighbouring desk. 
 
-### Hitting reset
+## Hitting reset
 
 Removing the distractions can only be a good thing. Right now it's actually awkward to hit *Tab* as there's a mug of tea close to my keyboard. It's that close because a Nerf gun and stack of magazines are taking up so much space.
 
@@ -31,6 +33,8 @@ Sitting at my desk and looking around, I can see a lot of things.
 * Office toys and trinkets; bottles of water, mugs of coffee, even a bottle of Jack Daniels;
 * A rainbow of Post-It notes of all colours with hastily scribbled notes, numbers and names;
 * An orange from Christmas, to stave off the flu (it never got eaten. I got flu).
+
+<img width="1024" height="768" alt="My desk, this morning" src="./content/3.blog/6.back-to-blank/img/desk-january.jpg">
 
 But I'm not looking around the whole office. I'm just looking around **my desk**. Trying around to find my notebook actually, which is buried somewhere nearby. Clearly, something has to give.
 

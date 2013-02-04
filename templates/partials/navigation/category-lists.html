@@ -10,12 +10,14 @@ foreach $root do
                     <a href="@url"><img src="@thumb" alt=""></a>
                 </div>-->
 
-                <h2 class="post-title"><a href="@url" title="@title">@title</a></h2>
-                <p class="post-date">Written on @date</p>
+                <hgroup class="post-title">
+                    <h1><a href="@url" title="@title">@title</a></h1>
+                    <h2>Written on @date</h2>
+                </hgroup>
                 
                 @preview
 
-                <p><a href="@url" title="@title">Continue reading <span aria-hidden="true" data-icon="&#xe005;"></span></a></p>
+                <p class="more"><a href="@url" title="@title">Continue reading <span aria-hidden="true" data-icon=""></span></a></p>
                 
             </section>
         endforeach

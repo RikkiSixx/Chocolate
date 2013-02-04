@@ -1,6 +1,6 @@
 name: Rik Kendell
 -
-profession: Front-End Developer &amp; Designer
+profession: UX Developer &amp; Designer
 -
 email: 
 <rik.kendell@gmail.com>

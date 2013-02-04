@@ -154,40 +154,15 @@ a:active {
     line-height: 1;
     -webkit-font-smoothing: antialiased;
 }
-.icon-home:before {
-    content: "\e000";
-}
-.icon-user:before {
-    content: "\e001";
-}
-.icon-phone:before {
-    content: "\e002";
-}
-.icon-address-book:before {
-    content: "\e003";
-}
-.icon-menu:before {
-    content: "\e004";
-}
-.icon-arrow-right:before {
-    content: "\e005";
-}
-.icon-arrow-left:before {
-    content: "\e006";
-}
-.icon-twitter:before {
-    content: "\e007";
-}
-.icon-linkedin:before {
-    content: "\e008";
-}
+
+
 
 
 /* ==========================================================================
    3. Global layout & Typography
    ========================================================================== */
 .container {
-    padding: 0.938em;
+    padding: 0.625em;
     max-width: 46.250em;
     margin: auto;
 }
@@ -219,22 +194,41 @@ h1#hero a:hover {
     top: 0.063em;
 }
 #topmenu ul li {
-    background: #539FF4;
-    float: left;
-    margin-right: 1px;
-    display: block;
+    background: #539FF4; 
     height: 60px;
     width: 60px;
+    display: block;
+    float: left;
+    margin-right: 1px;
 }
 #topmenu ul li a {
     display: block;
-    height: 100%;
-    width: 100%;
     color: #fff;    
 }
-#topmenu ul li a:hover { }
-#topmenu ul li ul li {
+#topmenu ul li a.top-level {    
+    font-size: 1.75em;
+    padding: 13px 0 0;
+    text-align: center;
+    height: 47px;
+}
+#topmenu ul li a:hover {
+    background: #2864A7;
+    text-decoration: none;
+}
+#topmenu ul.sub-level {
+    padding: 1px 0 0;    
     display: none;
+}
+#topmenu ul li:hover ul.sub-level {
+    display: inherit;
+}
+#topmenu ul.sub-level li {
+    width: 220px;
+    border-bottom: 1px solid #fff;
+    height: auto;
+}
+#topmenu ul.sub-level li a {
+    padding: 2px 0.625em;
 }
 
 footer {
@@ -248,8 +242,42 @@ footer a:visited {
     color: #acc12e;
 }
 
+
+img {
+    width: 100%;
+    height: auto;
+}
+
 /* Typography */
-.post-preview h2, 
+#navigation li:nth-child(1) a.top-level span.icon:before {
+    content: "\e000";
+}
+#navigation li:nth-child(2) a.top-level span.icon:before {
+    content: "\e001";
+}
+#navigation li:nth-child(3) a.top-level span.icon:before {
+    content: "\e003";
+}
+.post-siblings .next-post a span:before,
+.more a span:before {
+    content: "\e005";
+}
+.post-siblings .previous-post a span:before {
+    content: "\e006";
+}
+.icon-phone:before {
+    content: "\e002";
+}
+.icon-menu:before {
+    content: "\e004";
+}
+.icon-twitter:before {
+    content: "\e007";
+}
+.icon-linkedin:before {
+    content: "\e008";
+}
+ 
 .post-title h1 {
     color: #3A3A44;
     font-family: "Droid Serif",serif;
@@ -265,11 +293,11 @@ footer a:visited {
     font-weight: 300;
     margin-bottom: 1.5em;
 }
-.post-preview h2 a {
+.post-preview h1 a {
     color: #3a3a44;
 }
-.post-preview h2 a:hover,
-.post-preview h2 a:active {
+.post-preview h1 a:hover,
+.post-preview h1 a:active {
     color: #539ff4;
     text-decoration: none;
 }
