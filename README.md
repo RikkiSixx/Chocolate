@@ -15,7 +15,7 @@ Instead, I used the lightweight, database-less CMS Stacey. It's functionality al
 
 ## Copyright/License
 
-Copyright (c) 2013 Rik Kendell. See `LICENSE` for details.
+Copyright (c) 2013 Rik Kendell. See `LICENSE` for details
 
 Except:
 * Stacey, (c) Anthony Kolber
