@@ -1,0 +1,40 @@
+title: -o-my-goodness: Opera adopts WebKit
+-
+date: 13th February, 2012
+-
+content:
+Opera Software [announced two big things](http://my.opera.com/ODIN/blog/300-million-users-and-move-to-webkit "Opera Developer News - Opera moves to WebKit") this morning:
+
+1. They now have **300 million** monthly users.
+2. New Opera products will use **WebKit**, rather than their own Presto rendering engine.
+
+## Love Letter
+
+The announcement reads like a love-letter to web standards and the advancement of the open-web:
+
+> The WebKit project now has the kind of standards support that we could only dream of when our work began. Instead of tying up resources duplicating what's already implemented in WebKit, we can focus on innovation to make a better browser. 
+
+> We remain completely committed to improving the web through our standardisation work. We have 18 years experience in standards and making browsers. Standards that began at Opera such as HTML5, native video and Media Queries are a vital part of the modern web.
+
+The change will be gradual; the first Opera WebKit product [will be for smartphones](http://www.theverge.com/2013/1/19/3892646/opera-shows-off-new-webkit-based-ice-mobile-browser "Opera shows of new WebKit-based 'Ice' mobile browser"), with a reveal planned for [Mobile World Congress](http://www.mobileworldcongress.com/ "Mobile World Congress") later in February. Other platforms will follow closely behind, meaning Opera Desktop will join the ranks of Safari and Chrome as WebKit-enabled browsers. 
+
+## What does this mean?
+
+Realistically, nothing should change for developers. We should stick to standards and test, test, test. But this is great news; Opera are already contributing to the WebKit project, striving for improvement in web standards and pushing more than ever for standards-compliance across all browsers.
+
+Rather than using WebKit as a springboard for an assault on rival browsers, Opera have instead embraced their cousins and jumped straight to work.
+
+-
+preview:
+Opera Software [announced two big things](http://my.opera.com/ODIN/blog/300-million-users-and-move-to-webkit "Opera Developer News - Opera moves to WebKit") this morning:
+
+1. They now have **300 million** monthly users.
+2. New Opera products will use **WebKit**, rather than their own Presto rendering engine.
+
+## Love Letter
+
+The announcement reads like a love-letter to web standards and the advancement of the open-web:
+
+> The WebKit project now has the kind of standards support that we could only dream of when our work began. Instead of tying up resources duplicating what's already implemented in WebKit, we can focus on innovation to make a better browser.
+
+> We remain completely committed to improving the web through our standardisation work. We have 18 years experience in standards and making browsers. Standards that began at Opera such as HTML5, native video and Media Queries are a vital part of the modern web.
