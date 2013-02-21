@@ -1,6 +1,6 @@
 title: -o-my-goodness: Opera adopts WebKit
 -
-date: 13th February, 2012
+date: 13th February, 2013
 -
 content:
 Opera Software [announced two big things](http://my.opera.com/ODIN/blog/300-million-users-and-move-to-webkit "Opera Developer News - Opera moves to WebKit") this morning:

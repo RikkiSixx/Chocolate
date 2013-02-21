@@ -3,13 +3,13 @@ title: About @name
 content:  
 I've been shoving things around on a screen since I was in high school, though at the time I wanted to work in animation. It wasn't until I discovered that the dreaded tables weren't the be-all and end-all of the Internet that I really got into web design and development.
 
-This discovery came a year after earning my degree *Computer Animation &amp; Special Effects* (a 2:1, if you're wondering!). I was the Multimedia Designer at a small software house and - after stumbling across something called CSS - something clicked into place and I was on the road to becoming a developer. 
+This discovery came a year after earning my degree **Computer Animation &amp; Special Effects** (a 2:1, if you're wondering!). I was the Multimedia Designer at a small software house and - after stumbling across something called CSS - something clicked into place and I was on the road to becoming a developer. 
 
 I still remember proudly re-designing and building my new portfolio website to practise - no tables! - and finding that the blue and orange stripes burned the retinas of the innocent, but I was hooked.
 
 Thankfully, I've come a long way since that website back in 2007. I've learned a lot and I can do things that I never expected; I've seen the Internet and the way we use and access it change. 
 
-One thing that hasn't changed is my passion. Every time I refresh a page and see a project coming together or a bit of jQuery working the way it should, it fuels my enthusiasm.
+One thing that hasn't changed is my **passion**. Every time I refresh a page and see a project coming together or a bit of jQuery working the way it should, it fuels my enthusiasm.
 
 Other things that fuel me: cake, punk rock, comic books, video games, yoga and great food. 
 
