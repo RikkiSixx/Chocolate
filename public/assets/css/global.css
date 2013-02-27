@@ -164,7 +164,7 @@ a:active {
    3. Global layout & Typography
    ========================================================================== */
 .container {
-    padding: 0.625em;
+    padding: 0.625em 1.250em;
     max-width: 46.250em;
     margin: auto;
 }
@@ -259,6 +259,10 @@ img {
 }
 
 /* Typography */
+blockquote {
+    margin: 1em;
+    padding: 0 0.5em 0 0.75em;
+}
 blockquote p {
     margin-bottom: 0;
 }

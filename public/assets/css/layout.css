@@ -1,10 +1,74 @@
-/* 8. CUSTOM LAYOUT & TYPOGRAPHY (Daddy bear)
-----------------------------------------------------------------------------------------*/
+/* 
+
+Rik Kendell, developer website and blog
+
+Author: Rik Kendell - @Rikki_Sixx
+Version: 2.0;
+URL: http://www.rikkkendell.co.uk/
+
+CONTENTS - GLOBAL.CSS
+-----------------------------------------
+6. CUSTOM LAYOUT & TYPOGRAPHY (Daddy bear)
+7. CUSTOM LAYOUT & TYPOGRAPHY (Mummy bear)
+
+*/
+
+/* ==========================================================================
+   6. CUSTOM LAYOUT & TYPOGRAPHY (Daddy bear)
+   ========================================================================== */
+/* a, 
+a:visited {
+    background: #539ff4;
+    color: #fff;
+    font-weight: normal;
+    text-decoration: none;    		 
+    -webkit-transition: color linear 0.2s, background linear 0.2s; 
+       -moz-transition: color linear 0.2s, background linear 0.2s;
+        -ms-transition: color linear 0.2s, background linear 0.2s;
+         -o-transition: color linear 0.2s, background linear 0.2s;
+         	transition: color linear 0.2s, background linear 0.2s;    
+}
+a:hover, 
+a:active {
+    background: #2864a7;
+    color:#fff;
+    text-decoration: underline;
+}
+h1 a, 
+h1 a:hover,
+h1 a:active {
+    background: none;
+} */
+
+body {
+    border-top: 0.625em solid #539ff4;
+}
+blockquote {
+    padding: 0 0 0 0.75em;
+    margin: 1em 40px 1.5em;
+}
+
 .hidden-phone {
     display: inherit;
 }
 .visible-desktop {
-	display: inherit;
+    display: inherit;
+}
+
+.container {
+    padding: 1.250em 1.875em;
+}
+
+#wrapper {
+    background: #ececec;
+    max-width: 68.125em;
+}
+#main {
+    background: #F5F5F5;
+}
+
+header#main-header {
+    border-top: none;
 }
 
 #topmenu ul li:hover ul li {
@@ -12,21 +76,29 @@
 }
 
 #sidebar {
-	background: #eaeaea;
-	margin-top: 10px;
-	width: 20em;
+    width: 14.375em;
+}
+#sidebar aside h1 {
+    color: #3A3A44;
+    font-family: "Droid Serif",serif;
+    font-size: 2em;
+    font-weight: 400;
+    letter-spacing: -0.7px;
+    line-height: 1.2;
+    margin-top: 0;
 }
 
 
+/* ==========================================================================
+   7. CUSTOM LAYOUT & TYPOGRAPHY (Mummy bear)
+   ========================================================================== */
 
-/* 9. CUSTOM LAYOUT & TYPOGRAPHY (Mummy bear)
-----------------------------------------------------------------------------------------*/
 @media screen and (min-width: 30em) and (max-width: 63.236em) {
-	#container { 
-		width: 30em; 
-	}
+    #container { 
+        width: 30em; 
+    }
 
-	.visible-desktop {
-		display: none;
-	}
+    .visible-desktop {
+        display: none;
+    }
 }
