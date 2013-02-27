@@ -20,6 +20,7 @@
         if @title do <meta name="twitter:title" content="@title"> endif
         if !@title do <meta name="twitter:title" content="@name - @profession"> endif
         if @desc do <meta name="twitter:description" content="@desc"> endif
+		if !@desc do <meta name="twitter:description" content="Personal website of Rik Kendell, @profession. Expect articles about UX, design, development, usability, and my own personal progression."> endif
 
         <link rel="favicon shortcut icon" href="@root_path/public/assets/favicon.ico">
         <link rel="apple-touch-icon-precomposed" sizes="114x114" href="@root_path/public/assets/apple-touch-icon-114x114.png">

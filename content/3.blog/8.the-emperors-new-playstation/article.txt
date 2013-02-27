@@ -9,7 +9,7 @@ Controversially, the electronics juggernaut didn't use their big unveiling to un
 
 But no console.
 
-I woke up this morning to headlines like [Sony fails to show PlayStation 4 console at PlayStation 4 event](http://www.theverge.com/2013/2/20/4011228/playstation-4-hardware-not-shown/in/3774815 "Sony fails to show PlayStation 4 console at PlayStation 4 event") and [PlayStation 4 absent from Sony launch event](http://www.bbc.co.uk/news/technology-21529226 "PlayStation 4 absent from Sony launch event"). Twitter and Facebook were filled with posts about the actual console not being shown.
+I woke up this morning to headlines like <a href="http://www.theverge.com/2013/2/20/4011228/playstation-4-hardware-not-shown/in/3774815" title="Sony fails to show PlayStation 4 console at PlayStation 4 event" target="_blank">Sony fails to show PlayStation 4 console at PlayStation 4 event</a> and <a href="http://www.bbc.co.uk/news/technology-21529226" title="PlayStation 4 absent from Sony launch event" target="_blank">PlayStation 4 absent from Sony launch event</a>. Twitter and Facebook were filled with posts about the actual console not being shown.
 
 ##  See Sony trollin', they hatin'
 
@@ -23,3 +23,6 @@ Well played, Sony.
 -
 preview:
 Last night, Sony staged their much-hyped **PlayStation 4** launch event in New York City. But this post isn't about what the console is; this morning I've been reading more about what the console *isn't*.
+-
+desc:
+Sony's PS4 launch-event in NYC is over, but controversially there was no sign of the PS4 itself. Have Sony screwed up or are they the biggest trolls in marketing, using our rage to fuel the fires of their publicity?
