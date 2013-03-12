@@ -1,0 +1,22 @@
+title: Friday Round-Up #001
+-
+date: 8th March, 2013
+-
+content:
+Taking a leaf from Rachael, our Digital Marketing Executive at <a href="http://www.cloudspotting.co.uk/" title="Cloudspotting" target="_blank">Cloudspotting</a>, I'll be throwing together lists of recent news items and interesting links that I've stumbled across. I won't be religiously posting a round-up every Friday, so I'll see how things go!
+
+* <a href="http://htaccess.madewithlove.be/" title="Test your .htaccess file easily" target="_blank">Test your .htaccess file easily</a> - This one really came in handy while making some recent changes to my own site!
+* <a href="http://wearemash.com/anthony-gold-pitch/" title="Anthony Gold chalkboard pitch" target="_blank">Anthony Gold chalkboard pitch</a> - My buddy <a href="http://mattroundelldesign.co.uk/" title="Matt Roundell" target="_blank">Matt</a> at Mash recently worked on this interesting pitch.
+* <a href="http://www.netmagazine.com/news/2013-net-awards-open-voting-132611" title="2013 .net Awards" target="_blank">2013 .net Awards</a> - Voting is now open for the 2013 .net Awards. There are 10 nominees in each category, which include *open-source project of the year*, *best online portfolio* and *best new agency*.
+* <a href="http://bjk5.com/post/44698559168/breaking-down-amazons-mega-dropdown" title="How Amazon’s Navigation Is So Damn Fast" target="_blank">How Amazon's navigation is so damn fast</a> - The Amazon website feels incredibly fast and usable. Here's a sneak-peek at how they do it.
+* <a href="http://bits.blogs.nytimes.com/2013/02/27/scientists-uncover-invisible-motion-in-video/" title="Scientists uncover invisible motion in video" target="_blank">Scientists uncover invisible motion in video</a> - Algorithm amplifies tiny changes in video with amazing results.
+* <a href="http://designtaxi.com/news/356263/Mozilla-Unveils-Striking-New-Branding-For-Firefox-OS/" title="Mozilla Unveils Striking New Branding For Firefox OS" target="_blank">Mozilla's new branding for Firefox OS</a>.
+* <a href="http://feedback.photoshop.com/photoshop_family/topics/photoshop_feature_request_remove_unused_layer_styles" title="Photoshop script to remove unused layer styles" target="_blank">Photoshop script to remove unused layer styles</a> - Dump unused effects quickly.
+
+
+-
+preview:
+Taking a leaf from Rachael, our Digital Marketing Executive at <a href="http://www.cloudspotting.co.uk/" title="Cloudspotting" target="_blank">Cloudspotting</a>, I'll be throwing together lists of recent news items and interesting links that I've stumbled across. I won't be religiously posting a round-up every Friday, so I'll see how things go!
+-
+desc:
+The first of my soon-to-be semi-regular round-ups. A short list of relevant news pieces from the last week or so, and general items of interest.
