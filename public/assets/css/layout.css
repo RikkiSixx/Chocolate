@@ -88,6 +88,18 @@ header#main-header {
     margin-top: 0;
 }
 
+.post-thumb {
+    float: left;
+    margin: 0 0.625em 0.625em 0;
+}
+.post-thumb img {
+    width: 200px;
+    height: auto;
+}
+.post-continue {
+    clear: both;
+}
+
 
 /* ==========================================================================
    7. CUSTOM LAYOUT & TYPOGRAPHY (Mummy bear)

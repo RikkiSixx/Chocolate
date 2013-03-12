@@ -163,6 +163,14 @@ a:active {
 /* ==========================================================================
    3. Global layout & Typography
    ========================================================================== */
+article img {
+    width: 100%;
+    height: auto;
+}
+article #disqus_thread img {
+    width: auto;
+}
+
 .container {
     padding: 0.625em 1.250em;
     max-width: 46.250em;
@@ -253,10 +261,7 @@ footer a:visited {
 }
 
 
-img {
-    width: 100%;
-    height: auto;
-}
+
 
 /* Typography */
 blockquote {
@@ -323,6 +328,13 @@ p.post-continue {
     font-family: "Raleway Light", sans-serif;
     font-size: 1.278em;
     font-weight: 300;
+}
+
+article h3 {
+    font-family: "Droid Serif",serif;
+    font-weight: 400;
+    letter-spacing: -0.7px;
+    line-height: 1.2;
 }
 
 

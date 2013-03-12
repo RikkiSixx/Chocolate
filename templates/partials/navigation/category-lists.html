@@ -5,21 +5,24 @@ foreach $root do
         <div class="blog-list">
 
         foreach $children do
-            <section class="post-preview">
-                <!--<div class="thumbnail col two">
-                    <a href="@url"><img src="@thumb" alt=""></a>
-                </div>-->
-
+            <article class="post-preview">
+                
                 <hgroup class="post-title">
                     <h1><a href="@url" title="@title">@title</a></h1>
                     <h2>Written on @date</h2>
                 </hgroup>
-                
+
+                if @thumb do
+                    <div class="post-thumb">
+                         <a href="@url" title="@title"><img src="@thumb" alt="@title" width="@width" height="@height"></a>
+                    </div>
+                endif
+
                 @preview
 
                 <p class="post-continue"><a href="@url" title="@title">Continue reading <span aria-hidden="true" data-icon=""></span></a></p>
                 
-            </section>
+            </article>
         endforeach
 
         </div><!-- blog-list -->
