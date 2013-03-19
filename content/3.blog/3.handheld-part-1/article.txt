@@ -3,7 +3,7 @@ title: Handheld Conference - Part I.
 date: 23rd November 2012
 -
 content:
-Last weekend, through the cold, the dark and the rain, Chris and I made the long journey over to Cardiff. Not for rugby, not for shopping, but for [Handheld Conference](http://handheldconf.com/ "Handheld Conference"); a series of talks based around mobile technologies.
+Last weekend, through the cold, the dark and the rain, Chris and I made the long journey over to Cardiff. Not for rugby, not for shopping, but for <a href="http://handheldconf.com/" title="Handheld Conference" target="_blank">Handheld Conference</a>; a series of talks based around mobile technologies.
 
 Right now, mobile is big news. And by "*mobile*" I don't just mean your smartphone; tablets are getting more powerful and affordable, netbooks and laptops are getting more portable, even consoles and TVs can provide access to the Internet. Clearly, mobile is here and it's not going away.
 
@@ -13,23 +13,23 @@ After an early registration and more breakfast pastries and coffees than I shoul
 
 **NB - I haven't covered *all* the presenters at Handheld in these posts, otherwise I could go on all day. Rest assured though, everyone was worth listening to, and I'd urge everyone to take a look at the videos when they're released!**
 
-[Keir Whitaker](http://www.keirwhitaker.com/ "Keir Whitaker") kicked things off, taking things in an unexpected direction from the beginning. In this case, "mobile" referred to the book that Keir published (as Viewport Industries) with [Elliot Jay Stocks](http://elliotjaystocks.com/ "Elliot Jay Stocks"), founder of [8faces](http://www.8faces.com/ "8faces"). Keir gave us an insight into the production of **Insites: The Book** along with some of the choices and situations - both good and bad - that the two of them had to deal with.
+<a href="http://www.keirwhitaker.com/" title="Keir Whitaker" target="_blank">Keir Whitaker</a> kicked things off, taking things in an unexpected direction from the beginning. In this case, "mobile" referred to the book that Keir published (as Viewport Industries) with <a href="http://elliotjaystocks.com/" title="Elliot Jay Stocks" target="_blank">Elliot Jay Stocks</a>, founder of <a href="http://www.8faces.com/" title="8faces" target="_blank">8faces</a>. Keir gave us an insight into the production of **Insites: The Book** along with some of the choices and situations - both good and bad - that the two of them had to deal with.
 
-**Lee Armstrong** impressed as he revealed some of the inner-workings of [Plane Finder](http://planefinder.net/ "Plane Finder app") and [Ship Finder](http://shipfinder.co/ "Ship Finder app"), apps from his company **pinkfroot**. Inspired by Google, Facebook and Twitter - the giants of *big data* - Lee explained their fascinating solutions for dealing with massive amounts of information, along with fluctuating levels of people accessing it.
+**Lee Armstrong** impressed as he revealed some of the inner-workings of <a href="http://planefinder.net/" title="Plane Finder app" target="_blank">Plane Finder</a> and <a href="http://shipfinder.co/" title="Ship Finder app" target="_blank">Ship Finder</a>, apps from his company **pinkfroot**. Inspired by Google, Facebook and Twitter - the giants of *big data* - Lee explained their fascinating solutions for dealing with massive amounts of information, along with fluctuating levels of people accessing it.
 
-I knew that [Dave Addey](https://twitter.com/daveaddey Dave Addey on Twitter) (MD of **Agant**) was due to talk about apps, which I didn't think would be relevant to us, but his section proved one of the most engaging of the day - and that's saying something. As an app-developer, one thing Dave hears most is "I have an idea for an app&hellip;" but as he mentioned, "Not every idea is a *good* idea and not every good idea would make a good *app*".
+I knew that <a href="https://twitter.com/daveaddey" title="Dave Addey on Twitter" target="_blank">Dave Addey</a> (MD of **Agant**) was due to talk about apps, which I didn't think would be relevant to us, but his section proved one of the most engaging of the day - and that's saying something. As an app-developer, one thing Dave hears most is "I have an idea for an app&hellip;" but as he mentioned, "Not every idea is a *good* idea and not every good idea would make a good *app*".
 
 Dave explained that ideas can be judged across three axis - **Universal Appeal**, **International Appeal** and **Lasting Appeal** - using Agant's projects as examples (such as the BAFTA Award-nominated Malcomn Tucker app).
 
-[Robert Mills](http://twitter.com/RobertMills Robert Mills on Twitter) and [Rob Lo Bue](http://twitter.com/RobLoBue Rob Lo Bue on Twitter) both spoke - in separate talks - about the importance of content. Robert was particularly vocal about the benefits of a **content-first** strategy, while Rob was an advocate of not alienating users through your content. He demonstrated this by beginning his talk in German - in a room full of mostly English-speakers. Point taken!
+<a href="http://twitter.com/RobertMills" title="Robert Mills on Twitter" target="_blank">Robert Mills</a> and <a href="http://twitter.com/RobLoBue" title="Rob Lo Bue on Twitter" target="_blank">Rob Lo Bue</a> both spoke - in separate talks - about the importance of content. Robert was particularly vocal about the benefits of a **content-first** strategy, while Rob was an advocate of not alienating users through your content. He demonstrated this by beginning his talk in German - in a room full of mostly English-speakers. Point taken!
 
 Soon after, it was time for lunch - so let's take a break there! I'll be back with the rest on Monday!
 
 **[Part II](@root_path/?/blog/handheld-part-2/ "Part II") has now been posted**
 
-*Also posted on the [Cloudspotting blog](http://blog.cloudspotting.co.uk/ "Cloudspotting Blog").*
+*Also posted on the <a href="http://blog.cloudspotting.co.uk/" title="Cloudspotting Blog" target="_blank">Cloudspotting blog</a>.*
 -
 preview:
-Last weekend, through the cold, the dark and the rain, Chris and I made the long journey over to Cardiff. Not for rugby, not for shopping, but for [Handheld Conference](http://handheldconf.com/ "Handheld Conference"); a series of talks based around mobile technologies.
+Last weekend, through the cold, the dark and the rain, Chris and I made the long journey over to Cardiff. Not for rugby, not for shopping, but for <a href="http://handheldconf.com/" title="Handheld Conference" target="_blank">Handheld Conference</a>; a series of talks based around mobile technologies.
 
 Right now, mobile is big news. And by "*mobile*" I don't just mean your smartphone; tablets are getting more powerful and affordable, netbooks and laptops are getting more portable, even consoles and TVs can provide access to the Internet. Clearly, mobile is here and it's not going away.

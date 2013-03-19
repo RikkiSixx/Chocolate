@@ -3,7 +3,7 @@ title: Handheld Conference - Part II.
 date: 26th November 2012
 -
 content:
-This time last week Chris and I were at [Handheld Conference](http://handheldconf.com/ "Handheld Conference") in Cardiff, Wales. If you didn't see what I wrote on Friday, or just want to catch-up, have a read of [Part I](@root_path/?/blog/handheld-i/ "Part i"). It was a long day, but thankfully we got to grab some lunch mid-way through. Bellies stuffed, we headed back in&hellip;
+This time last week Chris and I were at [Handheld Conference](http://handheldconf.com/ "Handheld Conference") in Cardiff, Wales. If you didn't see what I wrote on Friday, or just want to catch-up, have a read of [Part I](@root_path/?/blog/handheld-part-1/ "Part i"). It was a long day, but thankfully we got to grab some lunch mid-way through. Bellies stuffed, we headed back in&hellip;
 
 [Kevin Mears](http://mearso.com/ "Kevin Mears"), in-house front-end developer for the University of Glamorgan, presented one of my favourite portions of the day. Using his own entertaining doodles, Kevin discussed the trials and tribulations of catering for a varied audience on a variety of devices, and transforming an existing desktop website into something responsive. Kevin's [slides are online](https://speakerdeck.com/mearso/is-your-thinking-l-shaped "Kevin Mears' presentation slides") for you to take a look at.
 
