@@ -1,0 +1,33 @@
+<?php
+    function latest_tweets(){
+        //global $post;
+        $doc = new DOMDocument();
+        $meta='rikki_sixx';
+        $feed = "http://api.twitter.com/1/statuses/user_timeline.rss?screen_name=$meta";
+        $doc->load($feed);
+     
+        $outer = '<div id="tweets">';
+        $max_tweets = 3;
+        $i = 1;
+        foreach ($doc->getElementsByTagName('item') as $node) {
+            $tweet = $node->getElementsByTagName('title')->item(0)->nodeValue;
+
+            //if you want to remove the userid before the tweets then uncomment the next line.
+            $tweet = substr($tweet, stripos($tweet, ':') + 1);  
+
+            $tweet = preg_replace('@(https?://([-\w\.]+)+(:\d+)?(/([\w/_\.]*(\?\S+)?)?)?)@',
+                  '<a href="$1">$1</a>', $tweet);
+            $tweet = preg_replace("/@([0-9a-zA-Z]+)/",
+                  "<a href=\"http://twitter.com/$1\">@$1</a>",
+                  $tweet);
+          
+            $outer .= "<p>". $tweet . "</p>\n";
+          
+            if($i++ >= $max_tweets) break;
+        }
+        $outer .= "</div>\n";
+        return $outer;
+    }
+    
+    echo latest_tweets();
+?>
