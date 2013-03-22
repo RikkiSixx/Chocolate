@@ -65,6 +65,7 @@ blockquote {
 }
 #main {
     background: #F5F5F5;
+    float: right;
 }
 
 header#main-header {
@@ -76,6 +77,10 @@ header#main-header {
 }
 
 #sidebar {
+    position: fixed;
+    width: 14.375em;
+}
+#sidebar aside {
     width: 14.375em;
 }
 #sidebar aside h1 {
@@ -105,12 +110,18 @@ header#main-header {
    7. CUSTOM LAYOUT & TYPOGRAPHY (Mummy bear)
    ========================================================================== */
 
-@media screen and (min-width: 30em) and (max-width: 63.236em) {
-    #container { 
-        width: 30em; 
-    }
-
+@media screen and (min-width: 30em) and (max-width: 68.125em) {
     .visible-desktop {
         display: none;
+    }
+
+    #wrapper {
+        background: #F5F5F5;
+    }
+    #container { 
+        width: 30em; 
+    }    
+    #main {
+        float: none;
     }
 }
