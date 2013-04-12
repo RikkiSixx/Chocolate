@@ -1,0 +1,19 @@
+title: IE10
+-
+date: 12th April 2013
+-
+content:While having some compatability issues with Internet Explorer (of course) recently, I stumbled across this little gem.
+
+http://www.impressivewebs.com/ie10-css-hacks/
+
+<code>
+    <!--[if !IE]><!--><script>  
+    if (/*@cc_on!@*/false) {  
+        document.documentElement.className+=' ie10';  
+    }  
+    </script><!--<![endif]-->  
+</code>
+
+-
+preview:
+
