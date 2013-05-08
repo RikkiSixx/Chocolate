@@ -18,7 +18,8 @@ foreach $root do
                     </div>
                 endif
 
-                @preview
+                if @preview do @preview endif
+                if !@preview do @content endif
 
                 <p class="post-continue"><a href="@url" title="@title">Continue reading <span aria-hidden="true" data-icon=""></span></a></p>
                 

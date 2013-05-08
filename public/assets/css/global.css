@@ -98,17 +98,41 @@ blockquote {
     padding: 0 0 0 0.75em;    
     background: #e8e8e8;
 }
+pre {
+	border: 1px solid #cecece;
+    border-radius: 4px;
+    -webkit-border-radius: 4px;
+    padding: 0 0.75em;    
+    background: #fafafa;
+}
+code { 
+	font-size: 0.9em;
+}
+p code, li code {
+    background: #cecece;
+    color: #f7f7f7;
+}
 
 a, 
 a:visited {
-    color: #2864a7;
+    background: none repeat scroll 0 0 #539FF4;
+    border-bottom: 1px solid #2864A7;
+    color: #fff;
     font-weight: normal;
+    padding: 1px 2px 0;
     text-decoration: none;
+
+    -webkit-transition: background-color 0.2s linear, color 0.2s linear;  
+       -moz-transition: background-color 0.2s linear, color 0.2s linear;  
+         -o-transition: background-color 0.2s linear, color 0.2s linear;  
+            transition: background-color 0.2s linear, color 0.2s linear; 
 }
 a:hover, 
 a:active {
-    color:#539ff4;
-    text-decoration: underline;
+    color:#2864A7;
+    border-bottom: 1px solid #539FF4;
+    background-color: #F5F5F5;
+    text-decoration: none;
 }
 
 @font-face {
@@ -195,6 +219,8 @@ h1#hero {
     margin: 0;
 }
 h1#hero a {
+    background: transparent;
+    border: 0;
     color: #3A3A44;
 }
 h1#hero a:hover {
@@ -249,17 +275,17 @@ h1#hero a:hover {
     margin-bottom: 1.5em;
 }
 
-footer {
+#footer-wrap {
     background: #3a3a44;
     color: #fff;
 }
-footer a,
-footer a:hover,
-footer a:active,
-footer a:visited {
+#footer-wrap a,
+#footer-wrap a:hover,
+#footer-wrap a:active,
+#footer-wrap a:visited {
+    background-color: transparent;
     color: #acc12e;
 }
-
 
 
 
@@ -301,6 +327,8 @@ blockquote p {
 }
  
 .post-title h1 {
+    background-color: transparent;
+    border: 0;
     color: #3A3A44;
     font-family: "Droid Serif",serif;
     font-size: 2em;
@@ -316,7 +344,9 @@ blockquote p {
     margin-bottom: 1.5em;
 }
 .post-preview h1 a {
-    color: #3a3a44;
+    background: transparent;
+    border: 0;
+    color: #3A3A44;
 }
 .post-preview h1 a:hover,
 .post-preview h1 a:active {
