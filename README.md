@@ -1,9 +1,9 @@
 # Rik Kendell
 
 ## Overview
-After probably close to four years, I'm finally re-designing my website. Actually I should say I'm finally *rebuilding* my website - I've re-designed it several times, but by the time I get to the build stage I'm already onto a new one!
+After probably close to five years, I've finally re-designed my website. Rather than building one site, calling it finished, then tearing it down and doing a new one in a few years, I'll be updating the site slowly over time. Since launch, I've added a side-bar and am working on additional functionality, in addition to design tweaks. 
 
-My previous site design-oriented, hard to update and maintain, used almost no HTML5 or CSS3 and perhaps worst of all, it was as far from mobile-friendly as is possible to be.
+My previous site was static, awkward to update and maintain, used almost no HTML5 or CSS3, focused solely on my design work and was as far from mobile-friendly as is possible to be.
 
 In short, it no longer reflected either myself or my skills.  
 

@@ -93,6 +93,9 @@ header#main-header {
     margin-top: 0;
 }
 
+#sidebar .recent-posts { padding-left: 0; }
+#sidebar .recent-posts li { list-style: none; }
+
 .post-thumb {
     float: left;
     margin: 0 0.625em 0.625em 0;
