@@ -32,3 +32,5 @@ preview:While having some recent compatability issues with Internet Explorer (of
 **Conditional comments** are frequently used to iron out hiccups in older versions of IE, but IE10 doesn't support this. Sadly, that means that the <a href="http://paulirish.com/2008/conditional-stylesheets-vs-css-hacks-answer-neither/" title="Paul Irish's conditional classes" target="_blank">conditional classes that Paul Irish recommends</a> (which are included in the HTML5 Boilerplate) only work up to (and including) IE9.
 
 This small bit of script gets around this limitation.
+-
+desc: A quick way to target IE10 in your CSS with this JavaScript conditional comment.

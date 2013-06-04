@@ -200,6 +200,7 @@ article #disqus_thread img {
     max-width: 46.250em;
     margin: auto;
 }
+#main { float: none; }
 header#main-header {
     border-top: 0.625em solid #539ff4;
 }
@@ -288,14 +289,13 @@ h1#hero a:hover {
 }
 
 
-
 /* Typography */
 blockquote {
     margin: 1em;
-    padding: 0 0.5em 0 0.75em;
+    padding: 0.1em 0.5em 0.1em 0.75em;
 }
 blockquote p {
-    margin-bottom: 0;
+    margin-bottom: 1em;
 }
 #navigation li:nth-child(1) a.top-level span.icon:before {
     content: "\e000";
