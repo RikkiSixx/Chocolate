@@ -1,0 +1,40 @@
+title: Epic Quest
+-
+content:  
+After slamming straight into my 30's in late 2013, I've borrowed an idea from Steve Kamb, founder of <a href="http://www.nerdfitness.com/" title="Nerd Fitness" target="_blank">Nerd Fitness</a> - the <a href="http://www.nerdfitness.com/epic-quest/" title="Steve Kamb's Epic Quest of Awesome" target="_blank">Epic Quest</a>. 
+
+## The Quest Begins
+
+The idea is pretty simple; first create a starting list of things to achieve over the next few years. With each item crossed off, advance 20% toward the next 'level'. I'll be adding things to the list as I go along, as well as (hopefully) crossing plenty off.
+
+I've done plenty with my life so far, including travelling around the world, swimming with seals in Australia, finishing a food challenge and working on a sci-fi B-movie about a transvestite superhero. But there's always more that I want to do, so I'll be starting this at Level 1. 
+
+## Meadows Zone (United Kingdom)
+
+- See a play, a musical or ballet at a London theatre 
+- Walk the Three Peaks
+- Take part in a 5km run
+
+## Ancient Zone (Europe) 
+
+- See the Northern Lights / Aurora Borealis
+- Visit the Christmas Market in Brussels, Belgium
+- Go to the top of the Eiffel Tower in Paris, France
+
+## Confederate Zone (United States)
+
+- Drive Route 66
+- Check out the view from the top of the Statue of Liberty, New York City
+
+## Personal Side-Quests
+
+- Own a classic Volkswagen Beetle
+- Rebuild this website
+- Bake a perfect loaf
+- Travel around the world for a second time
+
+## Professional Side-Quests
+
+- Start my own business, properly
+- Launch a side-project
+- Complete Codecademy JavaScript track
