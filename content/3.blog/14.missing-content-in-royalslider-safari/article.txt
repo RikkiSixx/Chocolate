@@ -1,0 +1,65 @@
+title: Missing Content in RoyalSlider in Safari 
+-
+date: 4th July, 2013
+-
+content:
+Another hiccup with RoyalSlider recently. Each slide on a banner was split in two; the left half with a static **background** image and dynamic text, the right half containing a dynamic image with static text **absolutely-positioned** on top. The issue arose with the static text in the right-hand side not appearing while using Safari on a Mac or iOS device.
+
+<img src="./content/3.blog/14.missing-content-in-royalslider-safari/img/sustainability-banner.jpg" />
+
+It turns out this can be fixed by <q cite="http://stackoverflow.com/questions/16180051/royalslider-html-content-only-appears-on-first-slide-on-ipad">triggering hardware acceleration on your element over slider</q> (<a href="http://stackoverflow.com/questions/16180051/royalslider-html-content-only-appears-on-first-slide-on-ipad?answertab=votes#tab-top" title="RoyalSlider HTML content only appears on first slide on iPad - Stack Overflow" target="_blank">thanks Eric</a>).
+
+I'm not sure why hardware acceleration would affect some text in a slider, but here's the fix:
+
+<pre class="brush: css">
+	.yourTextClass {
+		-webkit-backface-visibility: hidden;
+		-webkit-transform: translateZ(0);
+	}
+</pre>
+
+And here's a basic version of what I implemented it on:
+
+<pre class="brush: html">
+<div id="slider">
+
+	<div class="rsSlide clearfix">
+		<div class="dynamic-text left">
+			<span class="yourTextClass"><!-- Here's some dynamic text --></span>
+		</div>
+		<div class="static-text right">
+			<span class="yourTextClass"><!-- This is some static text --></span>
+		</div>
+	</div><!-- /rsSlide -->
+
+	<div class="rsSlide clearfix">
+		<div class="dynamic-text left">
+			<span class="yourTextClass"><!-- This is some dynamic text --></span>
+		</div>
+		<div class="static-text right">
+			<span class="yourTextClass"><!-- Static text again --></span>
+		</div>
+	</div><!-- /rsSlide -->
+
+	<div class="rsSlide clearfix">
+		<div class="dynamic-text left">
+			<span class="yourTextClass"><!-- More of the dynamic text --></span>
+		</div>
+		<div class="static-text right">
+			<span class="yourTextClass"><!-- A little more static text --></span>
+		</div>
+	</div><!-- /.rsSlide -->
+
+</div><!-- /#slider -->
+</pre>
+-
+preview: 
+Another hiccup with RoyalSlider recently. Each slide on a banner was split in two; the left half with a static **background** image and dynamic text, the right half containing a dynamic image with static text absolutely-positioned on top. The issue arose with the static text in the right-hand side not appearing while using Safari on a Mac or iOS device.
+
+Luckily, I found an unexpected fix.
+-
+desc:
+Articles and news that has cropped up in recent days and weeks. This week, the Avengers make the list!
+-
+tags:
+royalslider, safari, webkit, apple, mac, ios

@@ -1,0 +1,20 @@
+title: Friday Round-Up #003
+-
+date: 6th September, 2013
+-
+content:
+Recently I had a week away from the office - using up remaining holiday, catching up on freelance work and stretching my legs in Skyrim - before starting my new job at <a href="http://www.stickyeyes.com/" title="Stickyeyes" target="_blank">Stickyeyes</a> (it's going great by the way). Now in the office, I've noticed a lot of cool stuff this past week or so.
+
+* <a href="http://www.getnymi.com/" title="Nymi" target="_blank">Nymi</a> - When I was shown the Nymi site this week, my mind was blown. I went back to the site half a dozen times. Not only is the website great but the wristband itself could be incredible. That is, if developers go wild with the SDK.
+* <a href="http://www.hashtagtide.co/" title="#TIDE" target="_blank">#TIDE</a> - A design and digital conference running this October in Scarborough, North Yorkshire. Some great speakers, including Harry Roberts and Andy Clarke and covering topics as diverse as crowd-funding and CSS. For &pound;35, this is unmissable!
+* <a href="http://www.theguardian.com/travel/2013/sep/03/yorkshire" title="Yorkshire - God's own country is the best place in Europe" target="_blank">God's own country is the best place in Europe</a> - Exciting news for Yorkshire this week, as God's Own Country wins the award for European Destination 2013 at the World Travel Awards.
+* <a href="http://littlebigdetails.com/post/59772814018/wikipedia-mobile-when-viewing-nearby-articles" title="Wikipedia Mobile's 'Nearby' articles" target="_blank">Wikipedia Mobile's list of nearby articles</a> - I had no idea that Wikipedia did this, but they have a nice list of articles about things close to your location.
+* And finally: <a href="http://www.youtube.com/watch?v=0TWh3EvSZ_0" title="Sony look to re-define the camera" target="_blank">Sony's detachable lens-cameras</a> - This lovely video for the new QX100 and QX10 shows the two lens-type cameras Sony will be launching. They're able to sync with your smartphone when you need a viewfinder, and operate independantly when you don't. I love the video; it shows great examples of the camera in use and is really sweet.
+
+
+-
+preview:
+Recently I had a week away from the office - using up remaining holiday, catching up on freelance work and stretching my legs in Skyrim - before starting my new job at <a href="http://www.stickyeyes.com/" title="Stickyeyes" target="_blank">Stickyeyes</a> (it's going great by the way). Now in the office, I've noticed a lot of cool stuff this past week or so.
+-
+desc:
+Some of the interesting and exciting things I found on the Internet since coming back from a week of freelancing and relaxing.
