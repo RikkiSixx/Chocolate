@@ -26,38 +26,38 @@
         if @desc do <meta name="twitter:description" content="@desc"> endif
         if !@desc do <meta name="twitter:description" content="Personal website of @name, @profession. Expect articles about UX, design, development, usability, and my own personal progression."> endif
 
-        <link rel="favicon shortcut icon" href="@root_path/public/assets/favicon.ico">
-        <link rel="apple-touch-icon-precomposed" sizes="114x114" href="@root_path/public/assets/apple-touch-icon-114x114.png">
-        <link rel="apple-touch-icon-precomposed" sizes="72x72" href="@root_path/public/assets/apple-touch-icon-72x72.png">
-        <link rel="apple-touch-icon-precomposed" sizes="57x57" href="@root_path/public/assets/apple-touch-icon-57x57.png">
+        <link rel="favicon shortcut icon" href="@root_path/assets/favicon.ico">
+        <link rel="apple-touch-icon-precomposed" sizes="114x114" href="@root_path/assets/apple-touch-icon-114x114.png">
+        <link rel="apple-touch-icon-precomposed" sizes="72x72" href="@root_path/assets/apple-touch-icon-72x72.png">
+        <link rel="apple-touch-icon-precomposed" sizes="57x57" href="@root_path/assets/apple-touch-icon-57x57.png">
 
         <link rel="alternate" type="application/atom+xml" href="@root_path/?/feed/">
-        <link rel="stylesheet" href="@root_path/public/assets/css/normalize.css">
-        <link rel="stylesheet" href="@root_path/public/assets/css/global.css" type="text/css" media="screen">
+        <link rel="stylesheet" href="@root_path/assets/css/normalize.css">
+        <link rel="stylesheet" href="@root_path/assets/css/global.css" type="text/css" media="screen">
 
-        <link rel="stylesheet" href="@root_path/public/assets/css/layout.css" media="all and (min-width: 33.236em)">
+        <link rel="stylesheet" href="@root_path/assets/css/layout.css" media="all and (min-width: 33.236em)">
         <!-- 30em + (1.618em * 2) = 33.236em / Eliminates potential of horizontal scrolling in most cases -->
 
         <!--[if (lt IE 9) & (!IEMobile)]>
         <link rel="stylesheet" href="css/example/layout.css" media="all">
         <![endif]-->
 
-        <link rel="stylesheet" href="@root_path/public/assets/css/shCore.css">
-        <link rel="stylesheet" href="@root_path/public/assets/css/shThemeRDark.css">
+        <link rel="stylesheet" href="@root_path/assets/css/shCore.css">
+        <link rel="stylesheet" href="@root_path/assets/css/shThemeRDark.css">
 
-        <script src="@root_path/public/assets/js/libs/modernizr-2.6.1.min.js"></script>
+        <script src="@root_path/assets/js/libs/modernizr-2.6.1.min.js"></script>
     </head>
 
     <body>
 
         <div id="wrapper" class="clearfix">
 
-            <div id="sidebar" class="container left visible-desktop">      
+            <div id="sidebar" class="container left visible-desktop">  
 
-                <!--<hgroup>
-                    <h1 id="hero"><a href="@root_path">@name</a></h1>
-                    <h2>@profession</h2>
-                </hgroup> --> 
+                <h2 id="logo-block">
+                    <a href="/" class="ir">Rik Kendell - Front-End Developer &amp; Designer</a>
+                </h2>    
+
 
                 <aside>
                     <h1>About Me</h1>
