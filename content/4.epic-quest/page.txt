@@ -9,15 +9,34 @@ The idea is pretty simple; first create a starting list of things to achieve ove
 
 I've done plenty with my life so far, including travelling around the world, swimming with seals in Australia, finishing a food challenge and working on a sci-fi B-movie about a transvestite superhero. But there's always more that I want to do, so I'll be starting this at Level 1. 
 
+<aside class="progress">
+
+	<h2>Current Level: 1 (20% toward level 2)</h2>
+
+	<!--<h3>Recently Completed</h3>
+	<p><strong>Bake a homemade loaf</strong> - I'd been meaning to make a sourdough starter in a while, and after a week of waiting and feeding (and leaving my heating on) I was ready to bake my first loaf.</p>-->
+
+</aside><!-- .progress -->
+
+## Completed
+
+<ul class="complete">
+	<li>Bake a homemade loaf - Completed: 21/11/2013</li>
+</ul>
+
+
 ## Meadows Zone (United Kingdom)
 
-- See a play, a musical or ballet at a London theatre 
+- See a performance at a London theatre 
 - Walk the Three Peaks
 - Take part in a 5km run
+- Have a fancy afternoon tea
+- Go on a seaside break in autumn/winter
 
 ## Ancient Zone (Europe) 
 
 - See the Northern Lights / Aurora Borealis
+- Stay in a city apartment, Paris, France
 - Visit the Christmas Market in Brussels, Belgium
 - Go to the top of the Eiffel Tower in Paris, France
 
@@ -25,16 +44,26 @@ I've done plenty with my life so far, including travelling around the world, swi
 
 - Drive Route 66
 - Check out the view from the top of the Statue of Liberty, New York City
+- See a Broadway show in New York City
+- Go to an NBA game
+
+## Thieves Guild Side-Quests
+
+- Fly using frequent-flyer miles
+- Blag an upgrade (flight, hotel, train, meal, whatever)
+- Fly first-class
+- Stay in a five-star hotel
 
 ## Personal Side-Quests
 
 - Own a classic Volkswagen Beetle
 - Rebuild this website
-- Bake a perfect loaf
-- Travel around the world for a second time
+- Bake a *perfect* loaf
+- Travel around the world again
+- Make a wearable, fitted hit - knitting or crochet
 
 ## Professional Side-Quests
 
-- Start my own business, properly
+- Launch my own business
 - Launch a side-project
 - Complete Codecademy JavaScript track
