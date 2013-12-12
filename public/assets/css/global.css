@@ -236,46 +236,47 @@ h1#hero a:hover {
 
 #topmenu {
     position: absolute;
-    right: 0.625em;
-    top: 0.063em;
+    left: 320px;
+    top: 10px;
 }
 #topmenu ul li {
-    background: #539FF4; 
-    height: 60px;
-    width: 60px;
     display: block;
     float: left;
     margin-right: 1px;
+    position: relative;
 }
 #topmenu a {
     display: block;
-    color: #fff;    
-}
-#topmenu a { background: #539ff4;}
-#topmenu a:hover {
+    color: #fff;   
+    padding: 5px 10px; 
     background: #2864A7;
+    border: 0;
+}
+#topmenu a:hover {
+    background: #539ff4;
     text-decoration: none;
 }
 #topmenu a.top-level {    
-    font-size: 1.75em;
-    padding: 13px 0 0;
+    font-size: 1em;
     text-align: center;
-    height: 47px;
 }
-#topmenu ul.sub-level {
+#topmenu ul ul {
     padding: 1px 0 0;    
     display: none;
+    position: absolute;
 }
-#topmenu ul li:hover ul.sub-level {
+#topmenu li:hover ul {
     display: inherit;
 }
-#topmenu ul.sub-level li {
-    width: 220px;
-    border-bottom: 1px solid #fff;
-    height: auto;
+#topmenu li ul li {
+    border-top: 1px solid #fff;
+    float: none;
+    margin: 0;
+    width: 230px;
 }
+#topmenu li ul li:first-child { border: none; }
 #topmenu ul.sub-level a {
-    padding: 2px 0.625em;
+
 }
 
 .post-preview {
@@ -308,15 +309,7 @@ blockquote {
 blockquote p {
     margin-bottom: 1em;
 }
-#navigation li:nth-child(1) a.top-level span.icon:before {
-    content: "\e000";
-}
-#navigation li:nth-child(2) a.top-level span.icon:before {
-    content: "\e001";
-}
-#navigation li:nth-child(3) a.top-level span.icon:before {
-    content: "\e003";
-}
+
 .post-siblings .next-post a span:before,
 .post-continue a span:before {
     content: "\e005";

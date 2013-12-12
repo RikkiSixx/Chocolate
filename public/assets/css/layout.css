@@ -41,7 +41,7 @@ h1 a:active {
 } */
 
 body {
-    border-top: 0.625em solid #539ff4;
+    border-top: 10px solid #539ff4;
 }
 blockquote {
     margin: 1em 40px 1.5em;
@@ -60,6 +60,7 @@ blockquote {
 .container {
     padding: 1.250em 1.875em;
 }
+#main-header .container { margin-top: 45px;}
 
 #wrapper {
     background: #ececec;
@@ -76,6 +77,18 @@ header#main-header {
 
 #topmenu ul li:hover ul li {
     display: inherit;
+}
+
+#logo-block {
+    background: url('/public/assets/img/logo.png');
+    height: 170px;
+    margin-top: 2px;
+    width: 170px;
+}
+#logo-block a { 
+    display: block;
+    height: 100%;
+    width: 100%;
 }
 
 #sidebar {
@@ -101,6 +114,13 @@ header#main-header {
     margin-top: 0;
 }
 
+#sidebar .recent-posts { padding-left: 0; }
+#sidebar .recent-posts li {
+    border-left: 5px solid #539FF4; 
+    list-style: none; 
+    padding-left: 0.5em;
+}
+
 #twitter-feed ul {
     padding: 0;
 }
@@ -123,9 +143,6 @@ header#main-header {
 }
 .jta-tweet-list-controls, .jta-tweet-inreplyto { display: none; }
 
-
-#sidebar .recent-posts { padding-left: 0; }
-#sidebar .recent-posts li { list-style: none; }
 
 .post-thumb {
     float: left;
@@ -168,6 +185,8 @@ header#main-header {
     #main {
         float: none;
     }
+
+    #topmenu { left: 1.875em; }
 
     .foot-content {
         max-width: 46.250em;
