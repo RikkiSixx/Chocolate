@@ -26,6 +26,13 @@
         if @desc do <meta name="twitter:description" content="@desc"> endif
         if !@desc do <meta name="twitter:description" content="Personal website of @name, @profession. Expect articles about UX, design, development, usability, and my own personal progression."> endif
 
+        <!-- OG Tags -->
+        <meta property="og:site_name" content="@title" />
+        <meta property="og:url" content="http://www.rikkendell.co.uk/@url" />
+        <meta property="og:description" content="@desc" />
+        <meta property="og:image" content="@root_path/assets/img/rik-se_xmas-2013_22.jpg" />
+        <meta property="og:type" content="article" />
+
         <link rel="favicon shortcut icon" href="@root_path/assets/favicon.ico">
         <link rel="apple-touch-icon-precomposed" sizes="114x114" href="@root_path/assets/apple-touch-icon-114x114.png">
         <link rel="apple-touch-icon-precomposed" sizes="72x72" href="@root_path/assets/apple-touch-icon-72x72.png">
@@ -66,11 +73,6 @@
                     <p>I'm also a gamer, comic book fan, photographer, bassist, foodie, Northerner, and much more - so expect a bit of a mixed bag!</p>
                 </aside>
 
-                <!--<aside>
-                    <h1>On Twitter</h1>
-                    <div id="twitter-feed"></div>
-                </aside> -->
-
                 <aside>
                     foreach $root do
                         if $children do
@@ -90,11 +92,11 @@
 
                 <header id="main-header" >
 
-                    <div class="relative container">
+                    <nav id="topmenu" class="clearfix hidden-phone hidden">
+                        :navigation
+                    </nav>
 
-                        <!-- <nav id="topmenu" class="clearfix hidden-phone">
-                            :navigation
-                        </nav>-->
+                    <div class="container">                        
 
                         <hgroup>
                             <h1 id="hero"><a href="@root_path">@name</a></h1>

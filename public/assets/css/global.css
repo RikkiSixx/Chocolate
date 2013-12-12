@@ -76,6 +76,12 @@ textarea {
 h1, h2, h3, h4, h5, h6 {
     line-height: 1em;
 }
+h1, h2, h3 {
+    font-family: "Droid Serif", serif;
+}
+h2, h3 {
+    font-weight: 300;
+}
 
 p, ul, ol, dl, blockquote {
     font-size: 1em;
@@ -115,9 +121,9 @@ p code, li code {
 
 a, 
 a:visited {
-    background: none repeat scroll 0 0 #539FF4;
+    background-color: #F5F5F5;
     border-bottom: 1px solid #2864A7;
-    color: #fff;
+    color:#2864A7;
     font-weight: normal;
     padding: 1px 2px 0;
     text-decoration: none;
@@ -129,9 +135,9 @@ a:visited {
 }
 a:hover, 
 a:active {
-    color:#2864A7;
+    background-color: #539FF4;
+    color:#fff;
     border-bottom: 1px solid #539FF4;
-    background-color: #F5F5F5;
     text-decoration: none;
 }
 
@@ -196,7 +202,7 @@ article #disqus_thread img {
 }
 
 .container {
-    padding: 0.625em 1.250em;
+    padding: 0.625em;
     max-width: 46.250em;
     margin: auto;
 }
@@ -209,9 +215,7 @@ header hgroup h1 {
     font-family: "Raleway Thin", sans-serif;
     margin-bottom: 0;
 }
-header hgroup h2 {
-    font-family: "Raleway Light",sans-serif;
-    font-weight: 300;
+header hgroup h2 {    
     margin-bottom: 0;
 }
 h1#hero {    
@@ -223,6 +227,7 @@ h1#hero a {
     background: transparent;
     border: 0;
     color: #3A3A44;
+    font-weight: 100;
 }
 h1#hero a:hover {
     color: #539ff4;
@@ -242,19 +247,20 @@ h1#hero a:hover {
     float: left;
     margin-right: 1px;
 }
-#topmenu ul li a {
+#topmenu a {
     display: block;
     color: #fff;    
 }
-#topmenu ul li a.top-level {    
+#topmenu a { background: #539ff4;}
+#topmenu a:hover {
+    background: #2864A7;
+    text-decoration: none;
+}
+#topmenu a.top-level {    
     font-size: 1.75em;
     padding: 13px 0 0;
     text-align: center;
     height: 47px;
-}
-#topmenu ul li a:hover {
-    background: #2864A7;
-    text-decoration: none;
 }
 #topmenu ul.sub-level {
     padding: 1px 0 0;    
@@ -268,7 +274,7 @@ h1#hero a:hover {
     border-bottom: 1px solid #fff;
     height: auto;
 }
-#topmenu ul.sub-level li a {
+#topmenu ul.sub-level a {
     padding: 2px 0.625em;
 }
 
@@ -279,6 +285,7 @@ h1#hero a:hover {
 #footer-wrap {
     background: #3a3a44;
     color: #fff;
+    padding: 0.625em;
 }
 #footer-wrap a,
 #footer-wrap a:hover,
@@ -286,6 +293,10 @@ h1#hero a:hover {
 #footer-wrap a:visited {
     background-color: transparent;
     color: #acc12e;
+}
+.foot-content .profile {
+    border: 2px solid #fff;    
+    width: 100%;
 }
 
 

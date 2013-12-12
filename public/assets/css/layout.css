@@ -139,6 +139,19 @@ header#main-header {
     clear: both;
 }
 
+.foot-content { 
+    max-width: 61.250em;
+    padding: 1.250em 1.875em;
+    padding: 1em; 
+}
+.foot-content .profile {
+    width: 25%;
+    max-width: 300px;
+}
+.foot-content .blurb {
+    max-width: 69%;
+}
+
 
 /* ==========================================================================
    7. CUSTOM LAYOUT & TYPOGRAPHY (Mummy bear)
@@ -151,11 +164,16 @@ header#main-header {
 
     #wrapper {
         background: #F5F5F5;
-    }
-    #container { 
-        width: 30em; 
-    }    
+    }  
     #main {
         float: none;
+    }
+
+    .foot-content {
+        max-width: 46.250em;
+        margin: auto;
+    }
+    .foot-content .blurb {
+        max-width: 70%;
     }
 }
