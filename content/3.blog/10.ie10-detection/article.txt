@@ -2,11 +2,11 @@ title: IE10 Conditional Class
 -
 date: 21st April 2013
 -
-content:While having some recent compatability issues with Internet Explorer (of course), I stumbled across a real gem in an <a href="http://www.impressivewebs.com/ie10-css-hacks/" title="IE10 CSS hacks at Impressive Webs" target="_blank">article on IE10 CSS hacks</a>.
+content:While having some recent compatability issues with Internet Explorer (of course), I stumbled across a real gem in an <a href="http://www.impressivewebs.com/ie10-css-hacks/" title="IE10 CSS hacks at Impressive Webs">article on IE10 CSS hacks</a>.
 
-**Conditional comments** are frequently used to iron out hiccups in older versions of IE, but IE10 doesn't support this. Sadly, that means that the <a href="http://paulirish.com/2008/conditional-stylesheets-vs-css-hacks-answer-neither/" title="Paul Irish's conditional classes" target="_blank">conditional classes that Paul Irish recommends</a> (which are included in the HTML5 Boilerplate) only work up to (and including) IE9.
+**Conditional comments** are frequently used to iron out hiccups in older versions of IE, but IE10 doesn't support this. Sadly, that means that the <a href="http://paulirish.com/2008/conditional-stylesheets-vs-css-hacks-answer-neither/" title="Paul Irish's conditional classes">conditional classes that Paul Irish recommends</a> (which are included in the HTML5 Boilerplate) only work up to (and including) IE9.
 
-The following script is ignored by IE6 - IE9 (due to the conditional comment), and then checks for <a href="http://msdn.microsoft.com/en-us/library/8ka90k2e%28v=vs.94%29.aspx" title="Conditional compilation" target="_blank">conditional compilation</a>:
+The following script is ignored by IE6 - IE9 (due to the conditional comment), and then checks for <a href="http://msdn.microsoft.com/en-us/library/8ka90k2e%28v=vs.94%29.aspx" title="Conditional compilation">conditional compilation</a>:
 
 <pre class="brush: xml">
 <!--[if !IE]><!-->
@@ -29,7 +29,7 @@ This does use JavaScript, which some may see as a bad thing, but that hasn't put
 -
 preview:While having some recent compatability issues with Internet Explorer (of course), I stumbled across a real gem.
 
-**Conditional comments** are frequently used to iron out hiccups in older versions of IE, but IE10 doesn't support this. Sadly, that means that the <a href="http://paulirish.com/2008/conditional-stylesheets-vs-css-hacks-answer-neither/" title="Paul Irish's conditional classes" target="_blank">conditional classes that Paul Irish recommends</a> (which are included in the HTML5 Boilerplate) only work up to (and including) IE9.
+**Conditional comments** are frequently used to iron out hiccups in older versions of IE, but IE10 doesn't support this. Sadly, that means that the <a href="http://paulirish.com/2008/conditional-stylesheets-vs-css-hacks-answer-neither/" title="Paul Irish's conditional classes">conditional classes that Paul Irish recommends</a> (which are included in the HTML5 Boilerplate) only work up to (and including) IE9.
 
 This small bit of script gets around this limitation.
 -

@@ -7,7 +7,7 @@ Another hiccup with RoyalSlider recently. Each slide on a banner was split in tw
 
 <img src="./content/3.blog/14.missing-content-in-royalslider-safari/img/sustainability-banner.jpg" />
 
-It turns out this can be fixed by <q cite="http://stackoverflow.com/questions/16180051/royalslider-html-content-only-appears-on-first-slide-on-ipad">triggering hardware acceleration on your element over slider</q> (<a href="http://stackoverflow.com/questions/16180051/royalslider-html-content-only-appears-on-first-slide-on-ipad?answertab=votes#tab-top" title="RoyalSlider HTML content only appears on first slide on iPad - Stack Overflow" target="_blank">thanks Eric</a>).
+It turns out this can be fixed by <q cite="http://stackoverflow.com/questions/16180051/royalslider-html-content-only-appears-on-first-slide-on-ipad">triggering hardware acceleration on your element over slider</q> (<a href="http://stackoverflow.com/questions/16180051/royalslider-html-content-only-appears-on-first-slide-on-ipad?answertab=votes#tab-top" title="RoyalSlider HTML content only appears on first slide on iPad - Stack Overflow">thanks Eric</a>).
 
 I'm not sure why hardware acceleration would affect some text in a slider, but here's the fix:
 

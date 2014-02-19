@@ -1,0 +1,33 @@
+title: Forcing Preferences on Users
+-
+date: 18th February, 2014
+-
+content:
+I'm a big fan of <a href="http://www.quora.com/" title="Quora">Quora</a>, but I can't bring myself to visit often. The behaviour of the links has always irritated me; clicking almost any link opens it in a new window. I find myself getting frustrated as I end up with a dozen Quora tabs all opened at once, and no idea what any of them are for.
+
+It got me thinking about my own website. *How am I handling links? Am I ignoring accepted default behaviour and enforcing my own preferences?* Until now, the answer had been yes.
+
+A long-standing argument ("*discussion*") I've heard everywhere I've worked has been about when to use <code>target="_blank"</code>. For the most part we accept that links within the same site (ie. from the homepage to an article) would open within the same window and links to external sites would open in a new window. Usually this is because someone worries about losing a user or the effect on their bounce-rate. A better use would be to avoid interrupting an action, during check-out of an e-commerce site for example. I've questioned whether giving links two different behaviours is a good idea, but it is so commonplace that most people don't question it.
+
+## Your browser, your font?
+
+This kind of thinking could apply to other aspects of the design process as well. Should we base our font-choices on what looks pretty in Photoshop? Not so long ago, some friends and I were discussing this in the pub. Perhaps a user is partially-sighted and has set their own font preferences in their browser to make their experience easier. By deciding that Roboto Light looks good will we ruin their experience and turn them away from our site?
+
+Aside from wondering how this topic came up in the pub, I wondered what the alternative would be. Define serif or sans-serif in your CSS and let the users' browser make the choice based on their preferences? Even that could override their default settings; they might prefer sans-serif all the time.
+
+## Practical changes
+
+With something like fonts, I think it's a case of using best judgement. An audience on one site might be more suited to fancy fonts than on another. Common sense should prevail while still allowing more variety than Helvetica/Arial. On this site I do still have a font defined for my titles and my body-text, but I don't use huge font-stacks with a dozen alternatives. Instead, I have a single font defined, followed by either serif or sans-serif.
+
+Link behaviour should perhaps be more consistent. Before I put this post live, I removed <code>target="_blank"</code> from all my links, external or otherwise (let me know if I've missed any!). If a user wants to open a link in a new window, then most know how to do so. If this means they leave my site and forget to come back, then clearly I need to improve something on my end. 
+
+Content is king, after all. 
+
+-
+preview:
+I'm a big fan of <a href="http://www.quora.com/" title="Quora">Quora</a>, but I can't bring myself to visit often. The behaviour of the links has always irritated me; clicking almost any link opens it in a new window. I find myself getting frustrated as I end up with a dozen Quora tabs all opened at once, and no idea what any of them are for.
+
+It got me thinking about my own website. *How am I handling links? Am I ignoring accepted default behaviour and enforcing my own preferences?* Until now, the answer had been yes.
+-
+desc:
+Annoyed with the way Quora handles links, I took a look at how I've placed my own preferences on users, and whether this always matters.

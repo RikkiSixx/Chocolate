@@ -7,11 +7,11 @@ I've had a few conversations recently about CSS pre-processors (my life isn't al
 
 A few people grumbled that they drifted toward LESS (which is also great) or didn't even try a pre-processor, purely because Sass was a pain to set up. As I remember finding it awkward myself, I thought I'd give a quick run-through of what I did.
 
-**NB.** Before I get started, if you don't like the Command Line - and I emphatically don't - you may want to try out <a href="http://mhs.github.io/scout-app/" title="Scout App" target="_blank">Scout App</a> first. Scout runs in a "self-contained Ruby environment" and gives you a UI to manage your Sass projects. In the end, I found this saved me time and effort, but some people do prefer the hands-on approach.
+**NB.** Before I get started, if you don't like the Command Line - and I emphatically don't - you may want to try out <a href="http://mhs.github.io/scout-app/" title="Scout App">Scout App</a> first. Scout runs in a "self-contained Ruby environment" and gives you a UI to manage your Sass projects. In the end, I found this saved me time and effort, but some people do prefer the hands-on approach.
 
 ##Installing Ruby
 
-The worst part of setting up Sass is dealing with Ruby and the Command Line. Download the latest <a href="http://rubyinstaller.org/downloads/" title="Ruby Installer" target="_blank">Ruby Installer</a> and let 'er rip, but when you get to the screen below make sure you check *Add Ruby executables to your PATH*. 
+The worst part of setting up Sass is dealing with Ruby and the Command Line. Download the latest <a href="http://rubyinstaller.org/downloads/" title="Ruby Installer">Ruby Installer</a> and let 'er rip, but when you get to the screen below make sure you check *Add Ruby executables to your PATH*. 
 
 <img src="./content/3.blog/12.installing-sass/img/installer.png" alt="Installing Ruby on Windows" height="409" width="523" />
 
@@ -35,7 +35,7 @@ If you get the message "ruby is not recognized as an internal or external comman
 
 ##Installing Compass
 
-If you want to install <a href="http://compass-style.org/" title="Compass" target="_blank">Compass</a>, keep the Command Line open for a second. Compass is an open-source CSS framework which uses Sass and provides a ton of extra benefits. Type the following in the command line, and give it a few moments to install:
+If you want to install <a href="http://compass-style.org/" title="Compass">Compass</a>, keep the Command Line open for a second. Compass is an open-source CSS framework which uses Sass and provides a ton of extra benefits. Type the following in the command line, and give it a few moments to install:
 
 <pre>
 	gem install compass

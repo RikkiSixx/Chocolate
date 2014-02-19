@@ -3,7 +3,7 @@ title: Royalslider Safari Issue
 date: 8th May, 2013
 -
 content:
-Using Dmitry Semenov's <a href="http://codecanyon.net/item/royalslider-touchenabled-jquery-image-gallery/461126" title="Royalslider" target="_blank">Royalslider</a> recently (I use it regularly; it's fantastic, versatile and definitely worth a look), I noticed that in Safari I was unable to slide my gallery more than once before it locked. This problem occured on iPads too. 
+Using Dmitry Semenov's <a href="http://codecanyon.net/item/royalslider-touchenabled-jquery-image-gallery/461126" title="Royalslider">Royalslider</a> recently (I use it regularly; it's fantastic, versatile and definitely worth a look), I noticed that in Safari I was unable to slide my gallery more than once before it locked. This problem occured on iPads too. 
 
 After sliding to the 2nd "page", I was unable to interact with the slider any further; neither the sliding functionality or the content. Even simple banners throughout the site wouldn't work beyond a single slide.
 
